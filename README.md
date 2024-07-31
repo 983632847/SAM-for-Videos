@@ -59,6 +59,7 @@ If you find our work useful in your research, please consider citing:
 ### Video Object Segmentation
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
+|[SAM 2: Segment Anything in Images and Videos](https://ai.meta.com/sam2) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/) | [github](https://github.com/facebookresearch/segment-anything-2)  | arXiv-2024 |
 |[Segment Anything in High Quality](https://arxiv.org/abs/2306.01567) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01567) | [github](https://github.com/SysCV/SAM-HQ)  | NeurIPS-2023 |
 |[High-Quality Entity Segmentation](https://github.com/qqlu/Entity/tree/main/Entityv2) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Qi_High_Quality_Entity_Segmentation_ICCV_2023_paper.html) | [github](https://github.com/qqlu/Entity/blob/main/Entityv2/README.md)  | ICCV-2023 |
 |[Tracking Anything with Decoupled Video Segmentation](https://hkchengrex.com/Tracking-Anything-with-DEVA/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.03903) | [github](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)  | ICCV-2023 |
@@ -85,40 +86,32 @@ If you find our work useful in your research, please consider citing:
 |[ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking](https://arxiv.org/abs/2307.02508) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.02508) | -  | arXiv-2023 |
 |[CoDeF: Content Deformation Fields for Temporally Consistent Video Processing](https://arxiv.org/abs/2308.07926) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07926) | [github](https://qiuyu96.github.io/CoDeF/)  | arXiv-2023 |
 
+
 ### Video Shadow Detection
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[Detect Any Shadow: Segment Anything for Video Shadow Detection](https://arxiv.org/abs/2305.16698) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.16698) | [github](https://github.com/harrytea/Detect-AnyShadow)  | arXiv-2023 |
+
 
 ### Deepfake
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization](https://arxiv.org/abs/2306.17075) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.17075) | [github](https://github.com/laiyingxin2/DADF)  | arXiv-2023 |
+
 
 ### Miscellaneous
-| Title | arXiv | Github | Pub. & Date |
-|---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-
 #### Audio-Visual Segmentation
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation](https://arxiv.org/abs/2305.01836) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.01836) | -  | arXiv-2023 |
+|[Leveraging Foundation models for Unsupervised Audio-Visual Segmentation](https://arxiv.org/abs/2309.06728) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.06728) |  - | arXiv-2023 |
+|[Prompting Segmentation with Sound is Generalizable Audio-Visual Source LocalizerPrompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer](https://arxiv.org/abs/2309.07929) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.07929) |   -  | arXiv-2023 |
 
 #### Referring Video Object Segmentation
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation](https://arxiv.org/abs/2307.00997) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00997) | [github](https://github.com/LancasterLi/RefSAM)  | arXiv-2023 |
+
 
 ### Domain Specific
 | Title | arXiv | Github | Pub. & Date |
