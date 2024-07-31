@@ -71,12 +71,19 @@ If you find our work useful in your research, please consider citing:
 ### Video Object Tracking
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[Tracking Anything in High Quality](https://arxiv.org/abs/2307.13974) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13974) | [github](https://github.com/jiawen-zhu/HQTrack)  | arXiv-2023 |
+|[Tracking Anything with Decoupled Video Segmentation](https://hkchengrex.com/Tracking-Anything-with-DEVA/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.03903) | [github](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)  | ICCV-2023 |
+|[Segment and Track Anything](https://arxiv.org/abs/2305.06558) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06558) | [github](https://github.com/z-x-yang/Segment-and-Track-Anything)  | arXiv-2023 |
+|[Segment Anything Meets Point Tracking](https://arxiv.org/abs/2307.01197) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.01197) | [github](https://github.com/SysCV/sam-pt)  | arXiv-2023 |
+|[Track Anything: Segment Anything Meets Videos](https://arxiv.org/abs/2304.11968) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11968) | [github](https://github.com/gaomingqi/Track-Anything)  | arXiv-2023 |
+|[SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation](https://arxiv.org/abs/2307.01024) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.01024) | [github](https://github.com/vision4robotics/SAM-DA)  | arXiv-2023 |
+|[Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories](https://arxiv.org/abs/2310.04781) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.04781) |-  | arXiv-2023 |
+|[UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling](https://arxiv.org/abs/2309.17036) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17036) |- | arXiv-2023 |
+|[Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models](https://arxiv.org/abs/2310.06992) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.06992) | [github](https://wenhsuanchu.github.io/ovtracktor/)  | arXiv-2023 |
+|[Follow Anything: Open-set detection, tracking, and following in real-time](https://arxiv.org/abs/2308.05737) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.05737) | [github](https://github.com/alaamaalouf/FollowAnything)  | arXiv-2023 |
+|[SAM for Poultry Science](https://arxiv.org/abs/2305.10254) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10254) | -  | arXiv-2023 |
+|[ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking](https://arxiv.org/abs/2307.02508) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.02508) | -  | arXiv-2023 |
+|[CoDeF: Content Deformation Fields for Temporally Consistent Video Processing](https://arxiv.org/abs/2308.07926) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07926) | [github](https://qiuyu96.github.io/CoDeF/)  | arXiv-2023 |
 
 ### Video Shadow Detection
 | Title | arXiv | Github | Pub. & Date |
