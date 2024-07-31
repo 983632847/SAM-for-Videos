@@ -155,31 +155,32 @@ If you find our work useful in your research, please consider citing:
 ### Video Synthesis
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model](https://arxiv.org/abs/2308.07749) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749) | -  | arXiv-2023 |
+|[DisCo: Disentangled Control for Realistic Human Dance Generation](https://arxiv.org/abs/2307.00040) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00040) | [github](https://disco-dance.github.io/)  | arXiv-2023 |
+
 
 ### Video Super-Resolution
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[Can SAM Boost Video Super-Resolution?](https://arxiv.org/abs/2305.06524) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06524) |  | arXiv-2023 |
+
 
 ### 3D Reconstruction
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[SAM3D: Segment Anything in 3D Scenes](https://arxiv.org/abs/2306.03908) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.03908) | [github](https://github.com/Pointcept/SegmentAnything3D)  | arXiv-2023 |
+|[A One Stop 3D Target Reconstruction and multilevel Segmentation Method](https://arxiv.org/abs/2308.06974) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06974) | [github](https://github.com/ganlab/OSTRA)  | arXiv-2023 |
+
 
 ### Video Dataset Annotation Generation
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
+|[Scalable Mask Annotation for Video Text Spotting](https://arxiv.org/abs/2305.01443) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.01443) | [github](https://github.com/ViTAE-Transformer/SAMText)  | arXiv-2023 |
+|[Audio-Visual Instance Segmentation](https://arxiv.org/abs/2310.18709) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.18709) | - | arXiv-2023 |
+|[Learning the What and How of Annotation in Video Object Segmentation](https://arxiv.org/abs/2311.04414) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.04414) | [github](https://eva-vos.compute.dtu.dk/)  | WACV-2023 |
+|[Propagating Semantic Labels in Video Data](https://dataverse.tdl.org/dataverse/robotics) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00783) | [github](https://dataverse.tdl.org/dataverse/robotics)  | arXiv-2023 |
+|[Stable Yaw Estimation of Boats from the Viewpoint of UAVs and USVs](https://arxiv.org/abs/2306.14056) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.14056) | - | arXiv-2023 |
 |[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-
 
 ## Video Editing
 ### Generic Video Editing
