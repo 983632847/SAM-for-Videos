@@ -10,6 +10,9 @@
 
 > **This project will be continuously updated. We hope to discover more state-of-the-arts on SAM for videos.**
 
+> **The first comprehensive SAM survey: A Comprehensive Survey on Segment Anything Model for Vision and Beyond is at [[here]](https://github.com/liliu-avril/Awesome-Segment-Anything).**
+
+
 ## :fire: Highlights
 ```
 - 2024.07.31: The first survey on SAM for videos was online.
@@ -200,3 +203,5 @@ If you find our work useful in your research, please consider citing:
 |---|---|---|---|
 |[OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://arxiv.org/abs/2305.10503) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10503) | -  | arXiv-2023 |
 
+## License
+This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
