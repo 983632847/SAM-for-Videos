@@ -129,24 +129,26 @@ If you find our work useful in your research, please consider citing:
 #### Domain Adaptation
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization](https://arxiv.org/abs/2309.15562) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.15562) | - | arXiv-2023 |
+|[SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation](https://arxiv.org/abs/2307.01024) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.01024) | [github](https://github.com/vision4robotics/SAM-DA)  | arXiv-2023 |
 
 
 #### Tool Software
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models](https://arxiv.org/abs/2308.00675) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.00675) | -  | arXiv-2023 |
+
 
 #### More Directions
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
+|[Generative AI-driven Semantic Communication Framework for NextG Wireless Network](https://arxiv.org/abs/2310.09021) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09021) | -  | arXiv-2023 |
+|[Learning from Human Videos for Robotic Manipulation](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/2023/CMU-CS-23-124.pdf) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/2023/CMU-CS-23-124.pdf) | [github](https://github.com/adityak77/masters-thesis)  | arXiv-2023 |
+|[Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation](https://arxiv.org/abs/2311.01989) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.01989) |-  | arXiv-2023 |
+|[Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots](https://www.youtube.com/watch?v=1m9wNzfp_4E) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05716) | [github]()  | arXiv-2023 |
+|[ROSGPT_Vision: Commanding Robots Using Only Language Models' Prompts](https://arxiv.org/abs/2308.11236) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.11236) | [github](https://github.com/bilel-bj/ROSGPT_Vision)  | arXiv-2023 |
+|[SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model](https://arxiv.org/abs/2307.16586) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.16586) | - | arXiv-2023 |
+|[Virtual Augmented Reality for Atari Reinforcement Learning](https://arxiv.org/abs/2310.08683) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08683) | - | arXiv-2023 |
 
 
 ## Video Generation
