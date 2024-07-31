@@ -8,7 +8,7 @@
 
 > **<p align="justify"> Abstract:** *The recent wave of foundation models has witnessed tremendous success in computer vision (CV) and beyond, with the segment anything model (SAM) having sparked a passion for exploring task-agnostic visual foundation models. Empowered by its remarkable zero-shot generalization, SAM is currently challenging numerous traditional paradigms in CV, delivering extraordinary performance not only in various image segmentation and multi-modal segmentation (e.g., text-to-mask) tasks, but also in the video domain. Additionally, the latest released SAM 2 is once again sparking research enthusiasm in the realm of promptable visual segmentation for both images and videos. However, existing surveys mainly focus on SAM in various image processing tasks, a comprehensive and in-depth review in the video domain is notably absent. To address this gap, this work conducts a systematic review on SAM for videos in the era of foundation models. As the first to review the progress of SAM for videos, this work focuses on its applications to various tasks by discussing its recent advances, and innovation opportunities of developing foundation models on broad applications. We begin with a brief introduction to the background of SAM and video-related research domains. Subsequently, we present a systematic taxonomy that categorizes existing methods into three key areas: video understanding, video generation, and video editing, analyzing and summarizing their advantages and limitations. Furthermore, comparative results of SAM-based and current state-of-the-art methods on representative benchmarks, as well as insightful analysis are offered. Finally, we discuss the challenges faced by current research and envision several future research directions in the field of SAM for video and beyond.* </p>
 
-> **This project will be continuously updated. We hope to discover more state-of-the-art works on SAM for videos.**
+> **This project will be continuously updated. We hope to discover more state-of-the-arts on SAM for videos.**
 
 ## :fire: Highlights
 ```
@@ -116,19 +116,15 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Domain Specific
-| Title | arXiv | Github | Pub. & Date |
-|---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-
 #### Medical Videos
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-|[]() | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]() | [github]()  | arXiv-2023 |
-
+|[Spatio-Temporal Analysis of Patient-Derived Organoid Videos Using Deep Learning for the Prediction of Drug Efficacy](https://arxiv.org/abs/2308.14461) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14461) | - | ICCV Workshop-2023 |
+|[SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation](https://arxiv.org/abs/2308.07156) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07156) | - | MICCAI MedAGI Workshop-2023 |
+|[MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation](https://arxiv.org/abs/2309.13539) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.13539) | [github](https://github.com/kimsekeun/MediViSTA-SAM)  | arXiv-2023 |
+|[SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)](https://arxiv.org/abs/2308.11774) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.11774) | [github](https://github.com/AngeLouCN/SAMSNeRF)  | arXiv-2023 |
+|[SuPerPM: A Large Deformation-Robust Surgical Perception Framework Based on Deep Point Matching Learned from Physical Constrained Simulation Data](https://arxiv.org/abs/2309.13863) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.13863) | -   | arXiv-2023 |
+|[SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation](https://arxiv.org/abs/2308.08746) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08746) | [github](https://github.com/wenxi-yue/SurgicalSAM)  | arXiv-2023 |
 
 #### Domain Adaptation
 | Title | arXiv | Github | Pub. & Date |
