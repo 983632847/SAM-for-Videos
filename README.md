@@ -10,6 +10,8 @@
 
 > **This project will be continuously updated. We expect to include more state-of-the-arts on SAM for videos.**
 
+> **We highly encourage authors of related works to submit pull requests.**
+
 > **The first comprehensive SAM survey: A Comprehensive Survey on Segment Anything Model for Vision and Beyond is at [[here]](https://github.com/liliu-avril/Awesome-Segment-Anything).**
 
 
