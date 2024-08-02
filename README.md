@@ -77,6 +77,7 @@ If you find our work useful in your research, please consider citing:
 ### Video Object Tracking
 | Title | arXiv | Github | Pub. & Date |
 |---|---|---|---|
+| [Matching Anything by Segmenting Anything](https://arxiv.org/abs/2406.04221) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04221) | [github](https://github.com/siyuanliii/masa) | CVPR-2024
 |[Tracking Anything in High Quality](https://arxiv.org/abs/2307.13974) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13974) | [github](https://github.com/jiawen-zhu/HQTrack)  | arXiv-2023 |
 |[Tracking Anything with Decoupled Video Segmentation](https://hkchengrex.com/Tracking-Anything-with-DEVA/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.03903) | [github](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)  | ICCV-2023 |
 |[Segment and Track Anything](https://arxiv.org/abs/2305.06558) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06558) | [github](https://github.com/z-x-yang/Segment-and-Track-Anything)  | arXiv-2023 |
