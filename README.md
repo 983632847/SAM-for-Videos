@@ -452,11 +452,133 @@ If you find our work useful in your research, please consider citing:
 
 ## Video Tracking
 ### General Object Tracking
+- **MSDeAOT:** Yuanyou Xu, Jiahao Li, Zongxin Yang, Yi Yang, Yueting Zhuang.<br />
+  "ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.02508)] 
+  [2023.07]
+  
+- **MASA:** Siyuan Li, Lei Ke, Martin Danelljan, Luigi Piccinelli, Mattia Segu, Luc Van Gool, Fisher Yu.<br />
+  "Matching Anything by Segmenting Anything." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2406.04221)] 
+  [[project](https://matchinganything.github.io/)]
+  [[code](https://github.com/siyuanliii/masa)]
+  [2024.06]
+  
+- **HQTrack:** Jiawen Zhu, Zhenyu Chen, Zeqi Hao, Shijie Chang, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li.<br />
+  "Tracking Anything in High Quality." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.13974)] 
+  [[code](https://github.com/jiawen-zhu/HQTrack)]
+  [2023.07]
+
 ### Open-Vocabulary Tracking
+- **OVTracktor:** Wen-Hsuan Chu, Adam W. Harley, Pavel Tokmakov, Achal Dave, Leonidas Guibas, Katerina Fragkiadaki.<br />
+  "Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.06992)] 
+  [[code](https://wenhsuanchu.github.io/ovtracktor/)]
+  [2023.10]
+  
 ### Point Tracking
+- **SAM-PT:** Frano Rajič, Lei Ke, Yu-Wing Tai, Chi-Keung Tang, Martin Danelljan, Fisher Yu.<br />
+  "Segment Anything Meets Point Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.01197)] 
+  [[code](https://github.com/SysCV/sam-pt)]
+  [2023.07]
+
 ### Instruction Tracking
+- **TrackGPT:** Jiawen Zhu, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Huchuan Lu, Yifeng Geng, Xuansong Xie.<br />
+  "Tracking with Human-Intent Reasoning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.17448)] 
+  [[code](https://github.com/jiawen-zhu/TrackGPT)]
+   [2023.12]
+  
 ### Interactive Tracking and Localization
+- **TAM:** Jinyu Yang, Mingqi Gao, Zhe Li, Shang Gao, Fangjing Wang, Feng Zheng.<br />
+  "Track Anything: Segment Anything Meets Videos." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2304.11968)] 
+  [[code](https://github.com/gaomingqi/Track-Anything)]
+  [2023.04]
+
+- **SAM-Track:** Yangming Cheng, Liulei Li, Yuanyou Xu, Xiaodi Li, Zongxin Yang, Wenguan Wang, Yi Yang.<br />
+  "Segment and Track Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.06558)] 
+  [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
+  [2023.05]
+
+- **FIND:** Xueyan Zou, Linjie Li, Jianfeng Wang, Jianwei Yang, Mingyu Ding, Zhengyuan Yang, Feng Li, Hao Zhang, Shilong Liu, Arul Aravinthan, Yong Jae Lee, Lijuan Wang.<br />
+  "Interfacing Foundation Models’ Embeddings." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.07532)] 
+  [[code](https://github.com/UX-Decoder/FIND)]
+  [2023.12]
+  
 ### Domain Specifc Tracking
+- Xiao Yang, Haixing Dai, Zihao Wu, Ramesh Bist, Sachin Subedi, Jin Sun, Guoyu Lu, Changying Li, Tianming Liu, Lilong Chai.<br />
+  "SAM for Poultry Science." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.10254)] 
+  [2023.05]
+  
+- **SAM-DA:** Liangliang Yao, Haobo Zuo, Guangze Zheng, Changhong Fu, Jia Pan.<br />
+  "SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.01024)] 
+  [[code](https://github.com/vision4robotics/SAM-DA)]
+  [2023.07]
+  
+- **FAn:** Alaa Maalouf, Ninad Jadhav, Krishna Murthy Jatavallabhula, Makram Chahine, Daniel M. Vogt, Robert J. Wood, Antonio Torralba, Daniela Rus.<br />
+  "Follow Anything: Open-set detection, tracking, and following in real-time." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.05737)] 
+  [[code](https://github.com/alaamaalouf/FollowAnything)]
+  [[demo](https://www.youtube.com/watch?v=6Mgt3EPytrw)]
+  [2023.08]
+
+- **UniQuadric:** Linghao Yang, Yanmin Wu, Yu Deng, Rui Tian, Xinggang Hu, Tiefeng Ma.<br />
+  "UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.17036)] 
+  [2023.09]
+  
+- Alessandro Saviolo, Pratyaksh Rao, Vivek Radhakrishnan, Jiuhong Xiao, Giuseppe Loianno.<br />
+  "Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.04781)] 
+  [2023.10]
+
+- Virmarie Maquiling, Sean Anthony Byrne, Diederick C. Niehorster, Marcus Nyström, Enkelejda Kasneci.<br />
+  "Zero-Shot Segmentation of Eye Features Using the Segment Anything Model (SAM)." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.08077)] 
+  [2023.11]
+
+- **IT3DEgo:** Yunhan Zhao, Haoyu Ma, Shu Kong, Charless Fowlkes.<br />
+  "Instance Tracking in 3D Scenes from Egocentric Videos." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.04117)] 
+  [[code](https://github.com/IT3DEgo/IT3DEgo/)]
+  [2023.12]
+
+- **TrafficMOT:** Lihao Liu, Yanqi Cheng, Zhongying Deng, Shujun Wang, Dongdong Chen, Xiaowei Hu, Pietro Liò, Carola-Bibiane Schönlieb, Angelica Aviles-Rivero.<br />
+  "TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.18839)] 
+  [2023.12]
+
+- **HOIST-Former:** Supreeth Narasimhaswamy, Huy Anh Nguyen, Lihan Huang, Minh Hoai.<br />
+  "HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.13819)] 
+  [[code](https://supreethn.github.io/research/hoistformer/index.html)]
+  [2024.04]
+
+- **Offline-evt:** Fangwei Zhong, Kui Wu, Hai Ci, Churan Wang, Hao Chen.<br />
+  "Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.09857)] 
+  [[code](https://sites.google.com/view/offline-evt)]
+  [2024.04]
+
+- **TAR:** Tharun V. Puthanveettil, Fnu Obaid ur Rahman.<br />
+  "Track Anything Rapter(TAR)." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.11655)] 
+  [[code](https://github.com/tvpian/Project-TAR)]
+  [2024.05]
+
+- **SAM-TAPIR:** Athena Psalta, Vasileios Tsironis, Andreas El Saer, Konstantinos Karantzalos.<br />
+  "Addressing single object tracking in satellite imagery through prompt-engineered solutions." IGARSS (2024).
+  [[paper](https://arxiv.org/abs/2407.05518)] 
+  [2024.07]
+
+
 
 ## Video Editing and Generation
 ### Video Editing
