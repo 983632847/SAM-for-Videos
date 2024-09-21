@@ -208,7 +208,60 @@ If you find our work useful in your research, please consider citing:
   [2024.09]
   
 ### Video Panoptic Segmentation
+- **DEVA:** Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee.<br />
+  "Tracking Anything with Decoupled Video Segmentation." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2309.03903)] 
+  [[project page](https://hkchengrex.com/Tracking-Anything-with-DEVA/)]
+  [[code](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)]
+  [2023.09] 
+
+- **CRSTM:** Xiaoli Wei, Zhaoqing Wang, Yandong Guo, Chunxia Zhang, Tongliang Liu, Mingming Gong.<br />
+  "Training-Free Robust Interactive Video Object Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.05485)] 
+  [2024.06]
+
+  
 ### 3D Video Segmentation
+- **CSF:** Shichao Dong, Fayao Liu, Guosheng Lin.<br />
+  "Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.01989)] 
+  [2023.11]
+
+- **SAMPro3D:** Mutian Xu, Xingyilang Yin, Lingteng Qiu, Yang Liu, Xin Tong, Xiaoguang Han.<br />
+  "SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17707)] 
+  [[code](https://mutianxu.github.io/sampro3d/)]
+  [2023.11]
+
+- **SANeRF-HQ:** Yichen Liu, Benran Hu, Chi-Keung Tang, Yu-Wing Tai.<br />
+  "SANeRF-HQ: Segment Anything for NeRF in High Quality." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.01531)] 
+  [[code](https://lyclyc52.github.io/SANeRF-HQ/)]
+  [2023.12]
+
+- **Open3DIS:** Phuc D.A. Nguyen, Tuan Duc Ngo, Chuang Gan, Evangelos Kalogerakis, Anh Tran, Cuong Pham, Khoi Nguyen.<br />
+  "Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.10671)] 
+  [[code](https://open3dis.github.io/)]
+  [2023.12]
+
+- **EgoLifter:** Qiao Gu, Zhaoyang Lv, Duncan Frost, Simon Green, Julian Straub, Chris Sweeney.<br />
+  "EgoLifter: Open-world 3D Segmentation for Egocentric Perception." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.18118)] 
+  [[code](https://egolifter.github.io/)]
+  [2024.03]
+      
+- **3DSAM:** Shangjie Wang; Yan Zhang.<br />
+  "3DSAM: Segment Anything in NeRF." ICASSP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10445897)] 
+  [2024.04]
+
+- **SAM2Point:** Ziyu Guo, Renrui Zhang, Xiangyang Zhu, Chengzhuo Tong, Peng Gao, Chunyuan Li, Pheng-Ann Heng.<br />
+  "SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.16768)] 
+  [[code](https://github.com/ZiyuGuo99/SAM2Point)]
+  [2024.08]
+  
 ### Audio-Visual Segmentation
 ### Referring Video Object Segmentation
 ### Universal Segmentation
