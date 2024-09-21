@@ -583,8 +583,66 @@ If you find our work useful in your research, please consider citing:
 ## Video Editing and Generation
 ### Video Editing
 #### Text Guided Video Editing
+- **TGVE:** Jay Zhangjie Wu, Xiuyu Li, Difei Gao, Zhen Dong, Jinbin Bai, Aishani Singh, Xiaoyu Xiang, Youzeng Li, Zuwei Huang, Yuanxi Sun, Rui He, Feng Hu, Junhua Hu, Hai Huang, Hanyu Zhu, Xu Cheng, Jie Tang, Mike Zheng Shou, Kurt Keutzer, Forrest Iandola.<br />
+  "CVPR 2023 Text Guided Video Editing Competition." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.16003)] 
+  [[code](https://sites.google.com/view/loveucvpr23/track4)]
+  [2023.10]
+
+- **SAVE:** Yeji Song, Wonsik Shin, Junsoo Lee, Jeesoo Kim, Nojun Kwak.<br />
+  "SAVE: Protagonist Diversification with Structure Agnostic Video Editing." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.02503)] 
+  [[code](https://ldynx.github.io/SAVE/)]
+  [2023.12]
+
+- **ReimaginedAct:** Lan Wang, Vishnu Boddeti, Sernam Lim.<br />
+  "Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.07198)] 
+  [2024.03]
+
 #### Other Modality-guided Video Editing
+- **Make-A-Protagonist:** Yuyang Zhao, Enze Xie, Lanqing Hong, Zhenguo Li, Gim Hee Lee.<br />
+  "Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.08850)] 
+  [[code](https://make-a-protagonist.github.io/)]
+  [2023.05]
+  
+- **OR-NeRF:** Youtan Yin, Zhoujie Fu, Fan Yang, Guosheng Lin.<br />
+  "OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.10503)] 
+  [2023.05]
+  
+- **Drag-A-Video:** Yao Teng, Enze Xie, Yue Wu, Haoyu Han, Zhenguo Li, Xihui Liu.<br />
+  "Drag-A-Video: Non-rigid Video Editing with Point-based Interaction." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.02936)] 
+  [[code](https://drag-a-video.github.io/)]
+  [2023.12]
+
+- Zhan, Youyi and Wang, Tuanfeng Y. and Shao, Tianjia and Zhou, Kun.<br />
+  "Pattern Guided UV Recovery for Realistic Video Garment Texturing." ArXiv (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10400917?casa_token=9UPxBTineFYAAAAA:WM3NcynIUd8rFkPE8GUzl5uh5ryqCkHgBsOR8wG3iPrClzFJ1E8hlPir_G0IQkw_I8A8BPq4Lo6X)] 
+  [2024.01]
+
+
 #### Domain Spacific Editing
+- **OR-NeRF:** Youtan Yin, Zhoujie Fu, Fan Yang, Guosheng Lin.<br />
+  "OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.10503)] 
+  [2023.05]
+  
+- **Gaussian Grouping:** Mingqiao Ye, Martin Danelljan, Fisher Yu, Lei Ke.<br />
+  "Gaussian Grouping: Segment and Edit Anything in 3D Scenes." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.00732)] 
+  [[code](https://github.com/lkeab/gaussian-grouping)]
+  [2023.12]
+  
+- **Diffusion Handles:** Karran Pandey, Paul Guerrero, Matheus Gadelha, Yannick Hold-Geoffroy, Karan Singh, Niloy Mitra.<br />
+  "Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.02190)] 
+  [[code](https://diffusionhandles.github.io/)]
+  [2023.12]
+
+  
 ### Video Frame Interpolation
 ### 3D Video Reconstruction
 ### Video Dataset Annotation Generation
