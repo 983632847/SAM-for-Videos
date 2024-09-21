@@ -711,6 +711,107 @@ If you find our work useful in your research, please consider citing:
   [2024.04]
     
 ### Video Dataset Annotation Generation
+- **SLP:** David Balaban, Justin Medich, Pranay Gosar, Justin Hart.<br />
+  "Propagating Semantic Labels in Video Data." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.00783)] 
+  [[homepage](https://dataverse.tdl.org/dataverse/robotics)]
+  [2023.10]
+  
+- **AVIS :** Ruohao Guo, Yaru Chen, Yanyu Qi, Wenzhen Yue, Dantong Niu, Xianghua Ying.<br />
+  "Audio-Visual Instance Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.18709)] 
+  [2023.10]
+  
+- **CoralVOS:** Zheng Ziqiang, Xie Yaofeng, Liang Haixin, Yu Zhibin, Sai-Kit Yeung.<br />
+  "CoralVOS: Dataset and Benchmark for Coral Video Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.01946)] 
+  [2023.10]
+
+- **EVA-VOS:** Thanos Delatolas, Vicky Kalogeiton, Dim P. Papadopoulos.<br />
+  "Learning the What and How of Annotation in Video Object Segmentation." WACV  (2023).
+  [[paper](https://arxiv.org/abs/2311.04414)] 
+  [[code](https://eva-vos.compute.dtu.dk/)]
+  [2023.11]
+  
+- **Emu2:** Quan Sun, Yufeng Cui, Xiaosong Zhang, Fan Zhang, Qiying Yu, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang.<br />
+  "Generative Multimodal Models are In-Context Learners." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.13286)] 
+  [[homepage](https://baaivision.github.io/emu2)]
+  [[code](https://github.com/baaivision/Emu)] 
+  [2023.12]
+
+- **MANUS:** Chandradeep Pokhariya, Ishaan N Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma, Srinath Sridhar.<br />
+  "MANUS: Markerless Hand-Object Grasp Capture using Articulated 3D Gaussians." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.02137)] 
+  [[code](https://ivl.cs.brown.edu/research/manus.html)]
+  [2023.12]
+
+- **Wild2Avatar:** Tiange Xiang, Adam Sun, Scott Delp, Kazuki Kozuka, Li Fei-Fei, Ehsan Adeli.<br />
+  "Wild2Avatar: Rendering Humans Behind Occlusions." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2401.00431)] 
+  [[code](https://cs.stanford.edu/~xtiange/projects/wild2avatar/)]
+   [2023.12]
+
+- **GSC:** Luis Bolanos, Shih-Yang Su, Helge Rhodin.<br />
+  "Gaussian Shadow Casting for Neural Characters." ArXiv (2024).  
+   [[paper](https://arxiv.org/abs/2401.06116)] 
+  [2024.01]
+  
+- **WildRGB-D:** Hongchi Xia, Yang Fu, Sifei Liu, Xiaolong Wang.<br />
+  "RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.12592)] 
+  [[code](https://wildrgbd.github.io/)]
+  [2024.01]
+  
+- **SBSM:** Zizhang Li, Dor Litvak, Ruining Li, Yunzhi Zhang, Tomas Jakab, Christian Rupprecht, Shangzhe Wu, Andrea Vedaldi, Jiajun Wu.<br />
+  "Learning the 3D Fauna of the Web." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2401.02400)] 
+  [[code](https://kyleleey.github.io/3DFauna/)]
+  [2024.01]
+
+- **DiffuMatting:** Xiaobin Hu, Xu Peng, Donghao Luo, Xiaozhong Ji, Jinlong Peng, Zhengkai Jiang, Jiangning Zhang, Taisong Jin, Chengjie Wang, Rongrong Ji.<br />
+  "DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.06168)] 
+  [2024.03]
+
+- Meyer, A., Mazellier, JP., Dana, J. et al.<br />
+  "On-the-fly point annotation for fast medical video labeling." Int J CARS (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11548-024-03098-y)] 
+  [2024.04]
+    
+- **DTLLM-VLT:** Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang.<br />
+  "DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM." CVPRW (2024).
+  [[paper](https://arxiv.org/abs/2405.12139)] 
+  [2024.05]
+
+- **SAMText:** Haibin He, Jing Zhang, Mengyang Xu, Juhua Liu, Bo Du, Dacheng Tao.<br />
+  "Scalable Mask Annotation for Video Text Spotting." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.01443)] 
+  [[code](https://github.com/ViTAE-Transformer/SAMText)]
+  [2023.05]
+  
+- **SeaDronesSee-3D and BOArienT:** Benjamin Kiefer, Timon Höfer, Andreas Zell.<br />
+  "Stable Yaw Estimation of Boats from the Viewpoint of UAVs and USVs." ECMR  (2023).
+  [[paper](https://arxiv.org/abs/2306.14056)] 
+  [2023.06]
+      
+- **LU-AVS:** Chen Liu, Peike Patrick Li, Qingtao Yu, Hongwei Sheng, Dadong Wang, Lincheng Li, Xin Yu.<br />
+  "Benchmarking Audio Visual Segmentation for Long-Untrimmed Videos." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Benchmarking_Audio_Visual_Segmentation_for_Long-Untrimmed_Videos_CVPR_2024_paper.html)] 
+  [[code](https://yenanliu.github.io/LU-AVS/)]
+  [2024.06]
+  
+- Yunho Kim, Jeong Hyun Lee, Choongin Lee, Juhyeok Mun, Donghoon Youm, Jeongsoo Park, Jemin Hwangbo.<br />
+  "Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.02989)] 
+  [2024.06]
+  
+- **SegmentWithSAM:** Zafer Yildiz, Yuwen Chen, Maciej A. Mazurowski.<br />
+  "SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.15224)] 
+  [[code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)]
+  [2024.08]
+    
 ### Video Super-Resolution
 - **SEEM:** Zhihe Lu, Zeyu Xiao, Jiawang Bai, Zhiwei Xiong, Xinchao Wang.<br />
   "Can SAM Boost Video Super-Resolution?" ArXiv (2023).
