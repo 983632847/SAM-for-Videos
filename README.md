@@ -263,6 +263,43 @@ If you find our work useful in your research, please consider citing:
   [2024.08]
   
 ### Audio-Visual Segmentation
+- **AV-SAM:** Shentong Mo, Yapeng Tian.<br />
+  "AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.01836)]
+  [2023.05]
+  
+- **CMSF:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Xiatian Zhu.<br />
+  "Leveraging Foundation models for Unsupervised Audio-Visual Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.06728)] 
+  [2023.09]
+  
+- **GAVS:** Yaoting Wang, Weisong Liu, Guangyao Li, Jian Ding, Di Hu, Xi Li.<br />
+  "Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2309.07929)] 
+  [2023.09]
+    
+- **COMBO:** Qi Yang, Xing Nie, Tong Li, Pengfei Gao, Ying Guo, Cheng Zhen, Pengfei Yan, Shiming Xiang.<br />
+  "Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.06462)] 
+  [[code](https://combo-avs.github.io/)]
+  [2023.12]
+  
+- **MoCA:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Jiangkang Deng, Xiatian Zhu.<br />
+  "Unsupervised Audio-Visual Segmentation with Modality Alignment." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.14203)] 
+  [2024.03]
+  
+- **ST-BAVA:** Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, Sung-Eui Yoon.<br />
+  "Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation." ICIP  (2024).
+  [[paper](https://arxiv.org/abs/2406.06163)] 
+  [2024.06]
+
+- **SAVE:** Khanh-Binh Nguyen, Chae Jung Park.<br />
+  "SAVE: Segment Audio-Visual Easy way using Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.02004)] 
+  [2024.07]
+
+    
 ### Referring Video Object Segmentation
 ### Universal Segmentation
 
