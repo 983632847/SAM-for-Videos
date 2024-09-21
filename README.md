@@ -908,11 +908,60 @@ If you find our work useful in your research, please consider citing:
   
 ## Video Understanding and Analysis
 ### Video Captioning
+- **Exo2EgoDVC:** Takehiko Ohkawa, Takuma Yagi, Taichi Nishimura, Ryosuke Furuta, Atsushi Hashimoto, Yoshitaka Ushiku, Yoichi Sato.<br />
+  "Exo2EgoDVC: Dense Video Captioning of Egocentric Procedural Activities Using Web Instructional Videos." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16444)] 
+  [2023.11]
+  
+- **u-LLaVA:** Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, Yi-Jie Huang, Yaqian Li.<br />
+  "u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.05348)] 
+  [2023.11]
+
+- **OW-VISCap:** Anwesa Choudhuri, Girish Chowdhary, Alexander G. Schwing.<br />
+  "OW-VISCap: Open-World Video Instance Segmentation and Captioning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.03657)] 
+  [[code](https://anwesachoudhuri.github.io/OpenWorldVISCap/)]
+  [2024.04]
+
+- **BACON:** Zhantao Yang, Ruili Feng, Keyu Yan, Huangji Wang, Zhicai Wang, Shangwen Zhu, Han Zhang, Jie Xiao, Pingyu Wu, Kai Zhu, Jixuan Chen, Chen-Wei Xie, Chaojie Mao, Yue Yang, Hongyang Zhang, Yu Liu, Fan Cheng.<br />
+  "BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.03314)] 
+  [[code](https://ztyang23.github.io/bacon-page)]
+  [2024.07]
+
 ### Video Dialog
+- **MST_MIXER:** Adnen Abdessaied, Lei Shi, Andreas Bulling.<br />
+  "Multi-Modal Video Dialog State Tracking in the Wild." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.02218)] 
+  [[code](https://perceptualui.org/publications/abdessaied24_eccv)]
+ [2024.07]
+
 ### Video Grounding
+- **PG-Video-LLaVA:** Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan.<br />
+  "PG-Video-LLaVA: Pixel Grounding Large Video-Language Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.13435)] 
+  [[code](https://github.com/mbzuai-oryx/Video-LLaVA)]
+  [2023.11]
+
 ### Optical Flow Estimation
+- **SAMFlow:** Shili Zhou, Ruian He, Weimin Tan, Bo Yan.<br />
+  "SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2307.16586)] 
+  [2023.07]
+  
 ### Pose Estimation
+- **Mask as Supervision:** Yuchen Yang, Yu Qiao, Xiao Sun.<br />
+  "Mask as Supervision: Leveraging Unified Mask Information for Unsupervised 3D Pose Estimation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.07051)] 
+  [[code](https://github.com/Charrrrrlie/Mask-as-Supervision)]
+  [2023.12]
+  
 ### Video ReID
+- **SemReID:** Siyuan Huang, Yifan Zhou, Ram Prabhakar Kathirvel, Rama Chellappa, Chun Pong Lau.<br />
+  "Self-Supervised Learning of Whole and Component-Based Semantic Representations for Person Re-Identification." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17074)] 
+  [2023.11]
 
 ## Medical Video Processing
 
