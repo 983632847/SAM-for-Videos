@@ -644,10 +644,109 @@ If you find our work useful in your research, please consider citing:
 
   
 ### Video Frame Interpolation
+- **InterpAny-Clearer:** Zhihang Zhong, Gurunandan Krishnan, Xiao Sun, Yu Qiao, Sizhuo Ma, Jian Wang.<br />
+  "Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.08007)] 
+  [[homepage](https://zzh-tech.github.io/InterpAny-Clearer/)]
+  [[code](https://github.com/zzh-tech/InterpAny-Clearer)]
+  [2023.11]
+
+- **HRFFM:** Yan Han, Xiaogang Xu, Yingqi Lin, Jiafei Wu, Zhe Liu.<br />
+  "Video Frame Interpolation with Region-Distinguishable Priors from SAM." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.15868)] 
+  [2023.12]
+
+  
 ### 3D Video Reconstruction
+- **SAM3D:** Yunhan Yang, Xiaoyang Wu, Tong He, Hengshuang Zhao, Xihui Liu.<br />
+  "SAM3D: Segment Anything in 3D Scenes." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.03908)] 
+  [[code](https://github.com/Pointcept/SegmentAnything3D)]
+  [2023.06]
+  
+- **OSTRA :** Jiexiong Xu, Weikun Zhao, Zhiyan Tang, Xiangchao Gan.<br />
+  "A One Stop 3D Target Reconstruction and multilevel Segmentation Method." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.06974)] 
+  [[code](https://github.com/ganlab/OSTRA)]
+  [2023.08]
+  
+- **ControlRoom3D:** Jonas Schult, Sam Tsai, Lukas Höllein, Bichen Wu, Jialiang Wang, Chih-Yao Ma, Kunpeng Li, Xiaofang Wang, Felix Wimbauer, Zijian He, Peizhao Zhang, Bastian Leibe, Peter Vajda, Ji Hou.<br />
+  "ControlRoom3D: Room Generation using Semantic Proxy Rooms." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.05208)] 
+  [[code](https://jonasschult.github.io/ControlRoom3D/)]
+  [2023.12]
+
+- **HOLD:** Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges.<br />
+  "HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.18448)] 
+  [[code](https://github.com/zc-alexfan/hold)]
+  [2023.12]
+
+- **NPGs:** Devikalyan Das, Christopher Wewer, Raza Yunus, Eddy Ilg, Jan Eric Lenssen.<br />
+  "Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.01196)] 
+  [2023.12]
+
+- **Efficient4D:** Zijie Pan, Zeyu Yang, Xiatian Zhu, Li Zhang.<br />
+  "Fast Dynamic 3D Object Generation from a Single-view Video." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.08742)] 
+  [[code](https://fudan-zvg.github.io/Efficient4D)]
+  [2024.01]
+  
+- **GVA:** Xinqi Liu, Chenming Wu, Jialun Liu, Xing Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang.<br />
+  "GVA: Reconstructing Vivid 3D Gaussian Avatars from Monocular Videos." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.16607)] 
+  [[code](https://3d-aigc.github.io/GVA/)]
+  [2024.02]
+
+- **Uni3DR^2:** Tao Chu, Pan Zhang, Xiaoyi Dong, Yuhang Zang, Qiong Liu, Jiaqi Wang.<br />
+  "Unified Scene Representation and Reconstruction for 3D Large Language Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.13044)] 
+  [[code](https://chtsy.github.io/uni3drr-page/)]
+  [2024.04]
+  
+- **X-Ray:** Tao Hu, Wenhang Ge, Yuyang Zhao, Gim Hee Lee.<br />
+  "X-Ray: A Sequential 3D Representation for Generation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.14329)] 
+  [2024.04]
+    
 ### Video Dataset Annotation Generation
 ### Video Super-Resolution
+- **SEEM:** Zhihe Lu, Zeyu Xiao, Jiawang Bai, Zhiwei Xiong, Xinchao Wang.<br />
+  "Can SAM Boost Video Super-Resolution?" ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.06524)] 
+  [2023.05]
+  
 ### Text-to-Video Generation
+- **Dancing Avatar:** Bosheng Qin, Wentao Ye, Qifan Yu, Siliang Tang, Yueting Zhuang.<br />
+  "Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.07749)] 
+  [2023.08]
+
+- **MotionZero:** Sitong Su, Litao Guo, Lianli Gao, Hengtao Shen, Jingkuan Song.<br />
+  "MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16635)] 
+  [2023.11]
+
+- **WonderJourney:** Hong-Xing Yu, Haoyi Duan, Junhwa Hur, Kyle Sargent, Michael Rubinstein, William T. Freeman, Forrester Cole, Deqing Sun, Noah Snavely, Jiajun Wu, Charles Herrmann.<br />
+  "WonderJourney: Going from Anywhere to Everywhere." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.03884)] 
+  [[code](https://kovenyu.com/WonderJourney/)]
+  [2023.12]
+      
+- **CoCoCo:** Bojia Zi, Shihao Zhao, Xianbiao Qi, Jianan Wang, Yukai Shi, Qianyu Chen, Bin Liang, Kam-Fai Wong, Lei Zhang.<br />
+  "CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.12035)] 
+  [[project](http://cococozibojia.github.io/)]
+  [[code](https://github.com/zibojia/COCOCO)]
+  [2024.03]
+
+- Chaoyi Wang, Yaozhe Song, Yafeng Zhang, Jun Pei, Lijie Xia, Jianpo Liu.<br />
+  "Video Generation with Consistency Tuning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.06356)] 
+  [2024.03]
+
+
 ### Video Generation with Other Modalities
 
 ## Video Understanding and Analysis
