@@ -973,6 +973,63 @@ If you find our work useful in your research, please consider citing:
   [2024.03]
   
 ### Robotics
+- **MMPM:** Jiange Yang, Wenhui Tan, Chuhao Jin, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang.<br />
+  "Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.05716)] 
+  [[YouTube](https://www.youtube.com/watch?v=1m9wNzfp_4E)]
+  [[Bilibili](https://www.bilibili.com/video/BV178411Z7H2/)]
+  [2023.06]
+  
+- **DEFT:** Aditya Kannan.<br />
+  "Learning from Human Videos for Robotic Manipulation." ArXiv (2023).
+  [[paper](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/2023/CMU-CS-23-124.pdf)] 
+  [[code](https://github.com/adityak77/masters-thesis)]
+  [2023.07]
+  
+- **ROSGPT_Vision:** Bilel Benjdira, Anis Koubaa, Anas M. Ali.<br />
+  "ROSGPT_Vision: Commanding Robots Using Only Language Models' Prompts." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.11236)] 
+  [[code](https://github.com/bilel-bj/ROSGPT_Vision)]
+  [2023.08]
+    
+- Mayara E. Bonani, Max Schwarz, Sven Behnke.<br />
+  "Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.15562)] 
+  [2023.09]
+    
+- **SAM-G:** Ziyu Wang, Yanjie Ze, Yifei Sun, Zhecheng Yuan, Huazhe Xu.<br />
+  "Generalizable Visual Reinforcement Learning with Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.17116)] 
+  [[code](https://yanjieze.com/SAM-G/)]
+  [2023.12]
+
+- Kangcheng Liu, Xinhu Zheng, Chaoqun Wang, Hesheng Wang, Ming Liu, Kai Tang.<br />
+  "Online Robot Navigation and and Manipulation with Distilled Vision-Language Models." ICRA  (2024).
+  [[paper](https://arxiv.org/abs/2401.17083)] 
+  [2024.01]
+    
+- **ScaleFlow:** Chengbo Yuan, Chuan Wen, Tong Zhang, Yang Gao.<br />
+  "General Flow as Foundation Affordance for Scalable Robot Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.11439)] 
+  [[code](https://general-flow.github.io/)]
+  [2024.01]
+  
+- **GEMO:** Yinuo Zhao, Kun Wu, Tianjiao Yi, Zhiyuan Xu, Xiaozhu Ju, Zhengping Che, Qinru Qiu, Chi Harold Liu, Jian Tang.<br />
+  "An Efficient Generalizable Framework for Visuomotor Policies via Control-aware Augmentation and Privilege-guided Distillation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.09258)] 
+  [2024.01]
+
+- **CTL:** Anas Gouda, Max Schwarz, Christopher Reining, Sven Behnke, Alice Kirchheim.<br />
+  "Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.06277)] 
+  [[code](https://github.com/AnasIbrahim/ctl_classification)]
+  [2024.04]
+  
+- **RoVi-Aug:** Lawrence Yunliang Chen, Chenfeng Xu, Karthik Dharmarajan, Zubair Irshad, Richard Cheng, Kurt Keutzer, Masayoshi Tomizuka, Quan Vuong, Ken Goldberg.<br />
+  "RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning." CoRL (2024).
+  [[paper](https://arxiv.org/abs/2409.03403)] 
+  [2024.09]
+    
 ### Video Game
 - Christian A. Schiller.<br />
   "Virtual Augmented Reality for Atari Reinforcement Learning." ArXiv (2023).
