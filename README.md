@@ -967,11 +967,60 @@ If you find our work useful in your research, please consider citing:
 
 ## Other Video Tasks
 ### Video Compression
+- **SA-ICM:** Takahiro Shindo, Kein Yamada, Taiju Watanabe, Hiroshi Watanabe.<br />
+  "Image Coding for Machines with Edge Information Learning Using Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.04173)] 
+  [2024.03]
+  
 ### Robotics
 ### Video Game
+- Christian A. Schiller.<br />
+  "Virtual Augmented Reality for Atari Reinforcement Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.08683)]
+  [2023.10]
+  
 ### Video Style Transfer Attack
+- **LocalStyleFool:** Yuxin Cao, Jinghao Li, Xi Xiao, Derui Wang, Minhui Xue, Hao Ge, Wei Liu, Guangwu Hu.<br />
+  "LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model." SPW (2024).
+  [[paper](https://arxiv.org/abs/2403.11656)] 
+  [2024.03]
+  
 ### Semantic Communication
+- **SemCom:** Avi Deb Raha, Md. Shirajum Munir, Apurba Adhikary, Yu Qiao, Choong Seon Hong.<br />
+  "Generative AI-driven Semantic Communication Framework for NextG Wireless Network." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.09021)] 
+  [2023.10]
+  
 ### Tool Software
+- Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.<br />
+  "Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.00675)] 
+  [2023.08]
+  
+- **ASSISTGUI:** Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou.<br />
+  "ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.13108)] 
+  [2023.12]
+  
+- **Annolid:** Chen Yang, Thomas A. Cleland.<br />
+  "Annolid: Annotate, Segment, and Track Anything You Need." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.18690)] 
+  [2024.03]
+  
+- Aditya Gunturu, Yi Wen, Jarin Thundathil, Nandi Zhang, Rubaiat Habib Kazi, Ryo Suzuki.<br />
+  "Augmented Physics: A Machine Learning-Powered Tool for Creating Interactive Physics Simulations from Static Diagrams." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.18614)] 
+  [2024.05]
 
+- Kevin Charles Bierlich, Sagar Karki, Clara N. Bird, Alan Fern, Leigh G. Torres.<br />
+  "Automated body length and body condition measurements of whales from drone videos for rapid assessment of population health." Marine Mammal Science (2024).
+  [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/mms.13137)] 
+  [2024.05]
+
+- **DisFormer:** Sanket Gandhi, Atul, Samanyu Mahajan, Vishal Sharma, Rushil Gupta, Arnab Kumar Mondal, Parag Singla.<br />
+  "Learning Disentangled Representation in Object-Centric Models for Visual Dynamics Prediction via Transformers." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.03216)] 
+ [2024.07]  
+  
 ## License
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
