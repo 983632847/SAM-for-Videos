@@ -367,14 +367,88 @@ If you find our work useful in your research, please consider citing:
   
 ## Video Detection and Recognition
 ### Video Object Detection
+- Marian Longa, João F. Henriques.<br />
+  "Unsupervised Object Detection with Theoretical Guarantees." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.07284)] 
+  [2024.06]
+
 ### Video Shadow Detection
+- **ShadowSAM:** Yonghui Wang, Wengang Zhou, Yunyao Mao, Houqiang Li.<br />
+  "Detect Any Shadow: Segment Anything for Video Shadow Detection." TCSVT (2023).
+  [[paper]( https://arxiv.org/abs/2305.16698)] 
+  [[code](https://github.com/harrytea/Detect-AnyShadow)]
+  [2023.05]
+
 ### Video Camouflaged Object Detection
+  - **TSP-SAM:** Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao.<br />
+  "Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hui_Endow_SAM_with_Keen_Eyes_Temporal-spatial_Prompt_Learning_for_Video_CVPR_2024_paper.html)] 
+  [2024.06]
+
+- **SAM-PM:** Muhammad Nawfal Meeran, Gokul Adethya T, Bhanu Pratyush Mantha.<br />
+  "SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.05802)] 
+  [[code](https://github.com/SpiderNitt/SAM-PM)]
+  [2024.06]
+
 ### Deepfake Detection
+- **DADF:** Yingxin Lai, Zhiming Luo, Zitong Yu.<br />
+  "Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization." Chinese Conference on Biometric Recognition (2023).
+  [[paper](https://arxiv.org/abs/2306.17075)] 
+  [[code](https://github.com/laiyingxin2/DADF)]
+  [2023.06]
+
+- **LandmarkBreaker:** Yuezun Li and Pu Sun and Honggang Qi and Siwei Lyu.<br />
+  "LandmarkBreaker: A proactive method to obstruct DeepFakes via disrupting facial landmark extraction." CVIU (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S107731422400016X)] 
+  [2024.01]
+
 ### Video Anomaly Detection
+- Hangbin Zheng, Shimin Liu, Hengjun Zhang, Jiayi Yu and Jinsong Bao.<br />
+  "Visual-triggered contextual guidance for lithium battery disassembly: a multi-modal event knowledge graph approach." ArXiv (2024).
+  [[paper](https://www.tandfonline.com/doi/pdf/10.1080/09544828.2024.2301876?casa_token=7COSjhYxn_8AAAAA:VPlW-3ISu60vumHZ-FaQsA5ToOmw-FPtL2nrBYZLhq0kdvPjeSNFnxIOYpgRcMBUEY7SMIxuIwQ1eIAu)] 
+  [2024.01]
+  
+- **DecoAD:** Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, Xu Yu, Shanchen Pang.<br />
+  "Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.03236)] 
+  [[code](https://github.com/liuxy3366/DecoAD)]
+  [2024.09]
+  
 ### Video Salient Object Detection
+- Xu, Binwei and Jiang, Qiuping and Zhao, Xing and Lu, Chenyang and Liang, Haoran and Liang, Ronghua.<br />
+  "Multidimensional Exploration of Segment Anything Model for Weakly Supervised Video Salient Object Detection." TCSVT  (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10443051)] 
+  [2024.02]
+
 ### Event Detection
+- **SAM-GEBD:** Pranay Kashyap; Sourabh Vasant Gothe; Vibhav Agarwal; Jayesh Rajkumar Vachhani.<br />
+  "SAM-GEBD: Zero-Cost Approach for Generic Event Boundary Detection." ICASSP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10447789)] 
+  [2024.04]
+  
 ### Action Recognition
+- **Annolid:** Chen Yang, Jeremy Forest, Matthew Einhorn, Thomas A. Cleland.<br />
+  "Automated Behavioral Analysis Using Instance Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.07723)] 
+  [[code](https://github.com/cplab/annolid)]
+  [2023.12]
+  
+- **FBM:** Huang, Peng and Shu, Xiangbo and Yan, Rui and Tu, Zhewei and Tang, Jinhui.<br />
+  "Appearance-Agnostic Representation Learning for Compositional Action Recognition." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10488474)] 
+  [2024.04]
+
 ### Video Activity and Scene Classification
+- Fengtian Lu, Yuzhi Li, Feng Tian.<br />
+  "Exploring challenge and explainable shot type classification using SAM-guided approaches." SIVP (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11760-023-02928-x)] 
+  [2024.01]
+
+- **SAM+SLIC:** Michal Shlapentokh-Rothman, Ansel Blume, Yao Xiao, Yuqun Wu, Sethuraman T V, Heyi Tao, Jae Yong Lee, Wilfredo Torres, Yu-Xiong Wang, Derek Hoiem.<br />
+  "Region-Based Representations Revisited." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.02352)] 
+  [2024.02]
 
 ## Video Tracking
 ### General Object Tracking
