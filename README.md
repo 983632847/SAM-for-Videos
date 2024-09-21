@@ -301,6 +301,55 @@ If you find our work useful in your research, please consider citing:
 
     
 ### Referring Video Object Segmentation
+- **RefSAM:** Yonglin Li, Jing Zhang, Xiao Teng, Long Lan, Xinwang Liu.<br />
+  "RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.00997)] 
+  [[code](https://github.com/LancasterLi/RefSAM)]
+  [2023.07]
+
+- **UniRef++:** Jiannan Wu, Yi Jiang, Bin Yan, Huchuan Lu, Zehuan Yuan, Ping Luo.<br />
+  "UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.15715)] 
+  [[code](https://github.com/FoundationVision/UniRef)]
+  [2023.12]
+  
+- **PDM:** Dvir Samuel, Rami Ben-Ari, Matan Levy, Nir Darshan, Gal Chechik.<br />
+  "Unveiling the Power of Diffusion Features For Personalized Segmentation and Retrieval." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.18025)] 
+  [2024.06]
+      
+- **ROSA:** Yuhan Shen, Huiyu Wang, Xitong Yang, Matt Feiszli, Ehsan Elhamifar, Lorenzo Torresani, Effrosyni Mavroudi.<br />
+  "Learning to Segment Referred Objects from Narrated Egocentric Videos." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Learning_to_Segment_Referred_Objects_from_Narrated_Egocentric_Videos_CVPR_2024_paper.html)] 
+  [2024.06]
+  
+- **MUTR:** Bin Cao, Yisi Zhang, Xuanxu Lin, Xingjian He, Bo Zhao, Jing Liu.<br />
+  "2nd Place Solution for MeViS Track in CVPR 2024 PVUW Workshop: Motion Expression guided Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.13939)] 
+  [2024.06]
+
+- **TeSO:** Yaoting Wang, Peiwen Sun, Yuanchao Li, Honggang Zhang, Di Hu.<br />
+  "Can Textual Semantics Mitigate Sounding Object Segmentation Preference?." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.10947)] 
+  [[code](https://github.com/GeWu-Lab/Sounding-Object-Segmentation-Preference)]
+  [2024.07]
+  
+- **VISA:** Cilin Yan, Haochen Wang, Shilin Yan, Xiaolong Jiang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves.<br />
+  "VISA: Reasoning Video Object Segmentation via Large Language Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.11325)] 
+  [[code](https://github.com/cilinyan/VISA)]
+  [2024.07]
+  
+- Tuyen Tran.<br />
+  "The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.12447)] 
+  [2024.08]
+
+- Bin Cao, Yisi Zhang, Hanyi Wang, Xingjian He, Jing Liu.<br />
+  "The Instance-centric Transformer for the RVOS Track of LSVOS Challenge: 3rd Place Solution." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.10541)] 
+  [2024.08]
+  
 ### Universal Segmentation
 
 ## Video Detection and Recognition
