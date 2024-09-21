@@ -155,6 +155,58 @@ If you find our work useful in your research, please consider citing:
   
   
 ### Video Instance Segmentation
+- **HQ-SAM:** Lei Ke, Mingqiao Ye, Martin Danelljan, Yifan Liu, Yu-Wing Tai, Chi-Keung Tang, Fisher Yu.<br />
+  "Segment Anything in High Quality." NeurIPS (2023).
+  [[paper](https://arxiv.org/abs/2306.01567)] 
+  [[code](https://github.com/SysCV/SAM-HQ)]
+  [2023.06]
+  
+- **RepViT-SAM:** Ao Wang, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding.<br />
+  "RepViT-SAM: Towards Real-Time Segmenting Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.05760)] 
+  [[code](https://github.com/THU-MIG/RepViT)]
+  [2023.12]
+  
+- **SAM-PD:** Tao Zhou, Wenhan Luo, Qi Ye, Zhiguo Shi, Jiming Chen.<br />
+  "SAM-PD: How Far Can SAM Take Us in Tracking and Segmenting Anything in Videos by Prompt Denoising." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.04194)] 
+  [[code](https://github.com/infZhou/SAM-PD)]
+  [2024.03]
+    
+- **ClickVOS:** Pinxue Guo, Lingyi Hong, Xinyu Zhou, Shuyong Gao, Wanyun Li, Jinglun Li, Zhaoyu Chen, Xiaoqiang Li, Wei Zhang, Wenqiang Zhang.<br />
+  "ClickVOS: Click Video Object Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.06130)] 
+  [[code](https://github.com/PinxueGuo/ClickVOS)]
+  [2024.03]
+
+- **PM-VIS:** Zhangjing Yang, Dun Liu, Wensheng Cheng, Jinqiao Wang, Yi Wu.<br />
+  "PM-VIS: High-Performance Box-Supervised Video Instance Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.13863)] 
+  [2024.04]
+    
+- **OW-VISCap:** Anwesa Choudhuri, Girish Chowdhary, Alexander G. Schwing.<br />
+  "OW-VISCap: Open-World Video Instance Segmentation and Captioning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.03657)] 
+  [[code](https://anwesachoudhuri.github.io/OpenWorldVISCap/)]
+  [2024.04]
+  
+- **FlowSAM:** Junyu Xie, Charig Yang, Weidi Xie, Andrew Zisserman.<br />
+  "Moving Object Segmentation: All You Need Is SAM (and Flow)." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.12389)] 
+  [[code](https://www.robots.ox.ac.uk/~vgg/research/flowsam/)]
+  [2024.04]
+  
+- **ASDeM:** Liu, Xiaohu and Luo, Yichuang and Sun, Wei.<br />
+  "ASDeM: Augmenting SAM With Decoupled Memory for Video Object Segmentation." ACCESS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10537204)] 
+  [2024.06]
+
+- **MouseSIS:** Friedhelm Hamann, Hanxiong Li, Paul Mieske, Lars Lewejohann, Guillermo Gallego.<br />
+  "MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice." ECCVW (2024).
+  [[paper](https://arxiv.org/abs/2409.03358)] 
+  [[code](https://github.com/tub-rip/MouseSIS)]
+  [2024.09]
+  
 ### Video Panoptic Segmentation
 ### 3D Video Segmentation
 ### Audio-Visual Segmentation
