@@ -746,9 +746,65 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2403.06356)] 
   [2024.03]
 
-
 ### Video Generation with Other Modalities
+- **DisCo:** Tan Wang, Linjie Li, Kevin Lin, Yuanhao Zhai, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang.<br />
+  "DisCo: Disentangled Control for Realistic Human Dance Generation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.00040)] 
+  [[code](https://disco-dance.github.io/)]
+  [2023.07]
+  
+- **VideoBooth:** Yuming Jiang, Tianxing Wu, Shuai Yang, Chenyang Si, Dahua Lin, Yu Qiao, Chen Change Loy, Ziwei Liu.<br />
+  "VideoBooth: Diffusion-based Video Generation with Image Prompts." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.00777)] 
+  [[code](https://vchitect.github.io/VideoBooth-project/)]
+  [2023.12]
+  
+- Yao-Chih Lee, Zhoutong Zhang, Kevin Blackburn-Matzen, Simon Niklaus, Jianming Zhang, Jia-Bin Huang, Feng Liu.<br />
+  "Fast View Synthesis of Casual Videos with Soup-of-Planes." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.02135)] 
+  [[code](https://casual-fvs.github.io/)]
+  [2023.12]
+    
+- **CoDeF:** Hao Ouyang, Qiuyu Wang, Yuxi Xiao, Qingyan Bai, Juntao Zhang, Kecheng Zheng, Xiaowei Zhou, Qifeng Chen, Yujun Shen.<br />
+  "CoDeF: Content Deformation Fields for Temporally Consistent Video Processing." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.07926)] 
+  [[code](https://qiuyu96.github.io/CoDeF/)]
+  [2023.08] 
 
+- **CPAB:** Hexiang Wang, Fengqi Liu, Qianyu Zhou, Ran Yi, Xin Tan, Lizhuang Ma.<br />
+  "Continuous Piecewise-Affine Based Motion Model for Image Animation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.09146)] 
+  [[code](https://github.com/DevilPG/AAAI2024-CPABMM)]
+  [2024.01]
+  
+- **MultiDance-Zero:** Zhe Xu, Kun Wei, Xu Yang, Cheng Deng.<br />
+  "Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.13363)] 
+  [2024.01]
+  
+- **Lester:** Ruben Tous.<br />
+  "Lester: rotoscope animation through video object segmentation and tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.09883)] 
+  [2024.02]
+  
+- **DragAnything:** Weijia Wu, Zhuang Li, Yuchao Gu, Rui Zhao, Yefei He, David Junhao Zhang, Mike Zheng Shou, Yan Li, Tingting Gao, Di Zhang.<br />
+  "DragAnything: Motion Control for Anything using Entity Representation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.07420)] 
+  [[code](https://github.com/showlab/DragAnything)]
+  [[homepage](https://weijiawu.github.io/draganything_page/)]
+  [2024.03]
+
+- Chaoyi Wang, Yaozhe Song, Yafeng Zhang, Jun Pei, Lijie Xia, Jianpo Liu.<br />
+  "Video Generation with Consistency Tuning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.06356)] 
+  [2024.03]
+  
+- **UnSAMFlow:** Shuai Yuan, Lei Luo, Zhuo Hui, Can Pu, Xiaoyu Xiang, Rakesh Ranjan, Denis Demandolx.<br />
+  "UnSAMFlow: Unsupervised Optical Flow Guided by Segment Anything Model." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2405.02608)] 
+  [[code](https://github.com/facebookresearch/UnSAMFlow)]
+  [2024.05]  
+  
 ## Video Understanding and Analysis
 ### Video Captioning
 ### Video Dialog
