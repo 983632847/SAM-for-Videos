@@ -92,9 +92,68 @@ If you find our work useful in your research, please consider citing:
   - [Semantic Communication](#semantic-communication)
   - [Tool Software](#tool-software)
 
-
 ## Video Segmentation
 ### Video Semantic Segmentation
+- **PerSAM:** Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.<br />
+  "Personalize Segment Anything Model with One Shot." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.03048)] 
+  [[code]( https://github.com/ZrrSkywalker/Personalize-SAM)]
+  [2023.05]
+
+ - **UVOSAM:** Zhenghao Zhang, Zhichao Wei, Shengfan Zhang, Zuozhuo Dai, Siyu Zhu.<br />
+  "UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.12659)] 
+  [2023.05]
+ 
+- **DSEC-MOS:** Zhuyun Zhou, Zongwei Wu, Rémi Boutteau, Fan Yang, Dominique Ginhac.<br />
+  "DSEC-MOS: Segment Any Moving Object with Moving Ego Vehicle." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.00126)] 
+  [[code]( https://github.com/ZZY-Zhou/DSEC-MOS)]
+  [2023.05]
+
+- **Matcher:** Yang Liu, Muzhi Zhu, Hengtao Li, Hao Chen, Xinlong Wang, Chunhua Shen.<br />
+  "Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.13310)] 
+  [[code](https://github.com/aim-uofa/Matcher)]
+  [2023.05]
+  
+-  Shijie Chang, Zeqi Hao, Ben Kang, Xiaoqi Zhao, Jiawen Zhu, Zhenyu Chen, Lihe Zhang, Lu Zhang, Huchuan Lu.<br />
+  " 3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.02291)] 
+  [2023.06]
+
+- **SEGIC:** Lingchen Meng, Shiyi Lan, Hengduo Li, Jose M. Alvarez, Zuxuan Wu, Yu-Gang Jiang.<br />
+  "SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.14671)] 
+  [[code](https://github.com/MengLcool/SEGIC)]
+  [2023.11]
+  
+- **MVS:** Mykhailo Shvets, Dongxu Zhao, Marc Niethammer, Roni Sengupta, Alexander C. Berg.<br />
+  "Joint Depth Prediction and Semantic Segmentation with Multi-View SAM." WACV (2024).
+  [[paper](https://arxiv.org/abs/2311.00134)] 
+  [2023.11]
+
+- **ABR:** Junyu Xie, Weidi Xie, Andrew Zisserman.<br />
+  "Appearance-based Refinement for Object-Centric Motion Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.11463)] 
+  [2023.12]
+
+- **FoodMem:** Ahmad AlMughrabi, Adrián Galán, Ricardo Marques, Petia Radeva.<br />
+  "FoodMem: Near Real-time and Precise Food Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.12121)] 
+  [2024.07]
+
+- **MVP-TIME:** Feiyu Pan, Hao Fang, Runmin Cong, Wei Zhang, Xiankai Lu.<br />
+  "Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.10125)] 
+  [2024.08]
+
+- Xinyu Liu, Jing Zhang, Kexin Zhang, Xu Liu, Lingling Li.<br />
+  "LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.10469)] 
+  [2024.08]
+  
+  
 ### Video Instance Segmentation
 ### Video Panoptic Segmentation
 ### 3D Video Segmentation
