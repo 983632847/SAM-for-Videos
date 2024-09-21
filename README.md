@@ -351,7 +351,20 @@ If you find our work useful in your research, please consider citing:
   [2024.08]
   
 ### Universal Segmentation
+- **UniLSeg:** Yong Liu, Cairong Zhang, Yitong Wang, Jiahao Wang, Yujiu Yang, Yansong Tang.<br />
+  "Universal Segmentation at Arbitrary Granularity with Language Instruction." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.01623)] 
+  [[code](https://github.com/workforai/UniLSeg)]
+  [2023.12]
+  
+- **OMG-Seg:** Xiangtai Li, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy.<br />
+  "OMG-Seg: Is One Model Good Enough For All Segmentation?." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.10229)] 
+  [[code](https://github.com/lxtGH/OMG-Seg)]
+  [2024.01]
 
+
+  
 ## Video Detection and Recognition
 ### Video Object Detection
 ### Video Shadow Detection
