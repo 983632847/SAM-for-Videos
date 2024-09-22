@@ -705,12 +705,6 @@ If you find our work useful in your research, please consider citing:
   [[code](https://fudan-zvg.github.io/Efficient4D)]
   [2024.01]
 
-- **GEA:** Xinqi Liu, Chenming Wu, Xing Liu, Jialun Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang.<br />
-  "GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2402.16607)] 
-  [[code](https://3d-aigc.github.io/GEA/)]
-  [2024.02]
-    
 - **GVA:** Xinqi Liu, Chenming Wu, Jialun Liu, Xing Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang.<br />
   "GVA: Reconstructing Vivid 3D Gaussian Avatars from Monocular Videos." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.16607)] 
