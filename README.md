@@ -549,7 +549,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2312.04117)] 
   [[code](https://github.com/IT3DEgo/IT3DEgo/)]
   [2023.12]
-
+  
+- **MobileSAM-Track:** Liu, Yehui, Yuliang Zhao, Xinyue Zhang, Xiaoai Wang, Chao Lian, Jian Li, Peng Shan, Changzeng Fu, Xiaoyong Lyu, Lianjiang Li, and et al.<br />
+  "MobileSAM-Track: Lightweight One-Shot Tracking and Segmentation of Small Objects on Edge Devices." Remote Sensing (2023).
+  [[paper](https://www.mdpi.com/2072-4292/15/24/5665)] 
+  [2023.12]
+  
 - **TrafficMOT:** Lihao Liu, Yanqi Cheng, Zhongying Deng, Shujun Wang, Dongdong Chen, Xiaowei Hu, Pietro Liò, Carola-Bibiane Schönlieb, Angelica Aviles-Rivero.<br />
   "TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.18839)] 
