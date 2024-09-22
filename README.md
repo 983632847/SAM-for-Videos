@@ -704,7 +704,13 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2401.08742)] 
   [[code](https://fudan-zvg.github.io/Efficient4D)]
   [2024.01]
-  
+
+- **GEA:** Xinqi Liu, Chenming Wu, Xing Liu, Jialun Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang.<br />
+  "GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.16607)] 
+  [[code](https://3d-aigc.github.io/GEA/)]
+  [2024.02]
+    
 - **GVA:** Xinqi Liu, Chenming Wu, Jialun Liu, Xing Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang.<br />
   "GVA: Reconstructing Vivid 3D Gaussian Avatars from Monocular Videos." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.16607)] 
@@ -1013,7 +1019,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2312.14481)] 
   [[code](https://github.com/wenxi-yue/SurgicalPart-SAM)]
   [2023.12]
-  
+
+- **Surgment:** Jingying Wang, Haoran Tang, Taylor Kantor, Tandis Soltani, Vitaliy Popov, Xu Wang.<br />
+  "Surgment: Segmentation-enabled Semantic Search and Creation of Visual Question and Feedback to Support Video-Based Surgery Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.17903)] 
+  [2024.02]
+    
 - Aviad Dahan, Tal Shaharabany, Raja Giryes, Lior Wolf.<br />
   "Video Polyp Segmentation using Implicit Networks." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=7gFODPjwOe)] 
