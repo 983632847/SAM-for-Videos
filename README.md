@@ -1048,6 +1048,11 @@ If you find our work useful in your research, please consider citing:
   "Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.14040)] 
   [2024.04]
+  
+- **UroSAM:** Leng, Jixuan and Liu, Junfei and Cheng, Galen and Wang, Haohan and Quarrier, Scott Orzech and Luo, Jiebo and Jain, Rajat.<br />
+  "Development of UroSAM: a machine learning model to automatically identify kidney stone composition from endoscopic video." Journal of Endourology (2024).
+  [[paper](https://www.liebertpub.com/doi/abs/10.1089/end.2023.0740?casa_token=w2fwDmE_-swAAAAA%3AvQ_F2iaHPYMxOOlhV4z2iaK3X5nE9V0gsUBoD93FqbW5DJa3XkaB2d5X9lmZSeRBtjJRtqkzttM4Amx8)] 
+  [2024.05]
     
 - **MemSAM:** Xiaolong Deng, Huisi Wu, Runhao Zeng, Jing Qin.<br />
   "MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation." CVPR (2024).
