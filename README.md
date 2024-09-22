@@ -962,9 +962,209 @@ If you find our work useful in your research, please consider citing:
   "Self-Supervised Learning of Whole and Component-Based Semantic Representations for Person Re-Identification." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.17074)] 
   [2023.11]
-
+  
+- **P^2SAM:** Chenhui Zhao, Liyue Shen.<br />
+  "Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05433)] 
+  [2024.03]
+  
 ## Medical Video Processing
+- **SurgicalSAM:** An Wang, Mobarakol Islam, Mengya Xu, Yang Zhang, Hongliang Ren.<br />
+  "SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation." MICCAI MedAGI Workshop (2023).
+  [[paper](https://arxiv.org/abs/2308.07156)] 
+  [2023.08]
+  
+- **SAMSNeRF:** Ange Lou, Yamin Li, Xing Yao, Yike Zhang, Jack Noble.<br />
+  "SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)." Image-Guided Procedures, Robotic Interventions, and Modeling (2024).
+  [[paper](https://arxiv.org/abs/2308.11774)] 
+  [[code](https://github.com/AngeLouCN/SAMSNeRF)]
+  [2023.08]
+  
+- **SurgicalSAM:** Wenxi Yue, Jing Zhang, Kun Hu, Yong Xia, Jiebo Luo, Zhiyong Wang.<br />
+  "SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2308.08746)] 
+  [[code](https://github.com/wenxi-yue/SurgicalSAM)]
+  [2023.08]
+    
+- Leo Fillioux, Emilie Gontran, Jérôme Cartry, Jacques RR Mathieu, Sabrina Bedja, Alice Boilève, Paul-Henry Cournède, Fanny Jaulin, Stergios Christodoulidis, Maria Vakalopoulou.<br />
+  "Spatio-Temporal Analysis of Patient-Derived Organoid Videos Using Deep Learning for the Prediction of Drug Efficacy." ICCV Workshop (2023).
+  [[paper](https://arxiv.org/abs/2308.14461)] 
+  [2023.08]
+  
+- **SuPerPM:** Shan Lin, Albert J. Miao, Ali Alabiad, Fei Liu, Kaiyuan Wang, Jingpei Lu, Florian Richter, Michael C. Yip.<br />
+  "SuPerPM: A Large Deformation-Robust Surgical Perception Framework Based on Deep Point Matching Learned from Physical Constrained Simulation Data" ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.13863)] 
+  [2023.09]
+  
+- **SP-SAM:** Wenxi Yue, Jing Zhang, Kun Hu, Qiuxia Wu, Zongyuan Ge, Yong Xia, Jiebo Luo, Zhiyong Wang.<br />
+  "SurgicalPart-SAM: Part to Whole Collaborative Prompting for Surgical Instrument Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.14481)] 
+  [[code](https://github.com/wenxi-yue/SurgicalPart-SAM)]
+  [2023.12]
+  
+- Aviad Dahan, Tal Shaharabany, Raja Giryes, Lior Wolf.<br />
+  "Video Polyp Segmentation using Implicit Networks." ArXiv (2024).
+  [[paper](https://openreview.net/forum?id=7gFODPjwOe)] 
+  [2024.02]
+  
+- **WeakSurg:** Qiyuan Wang, Yanzhe Liu, Shang Zhao, Rong Liu, S. Kevin Zhou.<br />
+  "WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.09551)] 
+  [2024.03]
+              
+- **CCSpO2Net:** Sun, Xiantao and Wen, Tao and Chen, Weihai and Huang, Bin.<br />
+  "CCSpO2Net: Camera-Based Contactless Oxygen Saturation Measurement Foundation Model in Clinical Settings." TIM (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10464344)] 
+  [2024.03]
+  
+- Zijian Wu, Adam Schmidt, Peter Kazanzides, Septimiu E. Salcudean.<br />
+  "Augmenting Efficient Real-time Surgical Instrument Segmentation in Video with Point Tracking and Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.08003)] 
+  [2024.03]
+  
+- Seda Camalan, Muhammad Khalid Khan Niazi, Charles Elmaraghy, Aaron C. Moberly, Metin N. Gurcan.<br />
+  "Tympanic membrane segmentation of video frames to create composite images using SAM." SPIE (2024).
+  [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/1292736/Tympanic-membrane-segmentation-of-video-frames-to-create-composite-images/10.1117/12.3006926.short#_=_)] 
+  [2024.04]
+   
+- **ESD:** Jieming Yu, Long Bai, Guankun Wang, An Wang, Xiaoxiao Yang, Huxin Gao, Hongliang Ren.<br />
+  "Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos." IEEE ICRA C4SR+ Workshop (2024).
+  [[paper](https://arxiv.org/abs/2404.10640)] 
+  [2024.04]
+  
+- **Surgical-DeSAM:** Yuyang Sheng, Sophia Bano, Matthew J. Clarkson, Mobarakol Islam.<br />
+  "Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.14040)] 
+  [2024.04]
+    
+- **MemSAM:** Xiaolong Deng, Huisi Wu, Runhao Zeng, Jing Qin.<br />
+  "MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf)] 
+  [[code](https://github.com/dengxl0520/MemSAM)]
+  [2024.05]
+  
+- **WSPoly-SAM:** Tingting Cai and Hongping Yan and Kun Ding and Yan Zhang and Yueyue Zhou.<br />
+  "WSPoly-SAM: Weakly-Supervised and Self-Guided Fine-Tuning of SAM for Colonoscopy Polyp Segmentation." ArXiv (2024).
+  [[paper](https://www.preprints.org/manuscript/202405.0389/v1)] 
+  [2024.05]
+    
+- **D2GPLan:** Jialun Pei, Ruize Cui, Yaoqian Li, Weixin Si, Jing Qin, Pheng-Ann Heng.<br />
+  "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2406.17858)] 
+  [[code](https://github.com/PJLallen/D2GPLand)]
+  [2024.06]
+    
+- **ASI-Seg:** Zhen Chen, Zongming Zhang, Wenwu Guo, Xingjian Luo, Long Bai, Jinlin Wu, Hongliang Ren, Hongbin Liu.<br />
+  "ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding." IROS  (2024).
+  [[paper](https://arxiv.org/abs/2407.19435)] 
+  [[code](https://github.com/Zonmgin-Zhang/ASI-Seg)]
+  [2024.07]
+  
+- **VDST-Net:** Guiqiu Liao, Matjaz Jogan, Sai Koushik, Eric Eaton, Daniel A. Hashimoto.<br />
+  "Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.15794)] 
+  [2024.07]
+  
+- Ange Lou, Yamin Li, Yike Zhang, Robert F. Labadie, Jack Noble.<br />
+  "Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.01648)] 
+  [[project](https://github.com/AngeLouCN/SAM-2_Surgical_Video)]
+  [2024.08]
+    
+- Yosuke Yamagishi, Shouhei Hanaoka, Tomohiro Kikuchi, Takahiro Nakao, Yuta Nakamura, Yukihiro Nomura, Soichiro Miki, Takeharu Yoshikawa, Osamu Abe.<br />
+  "Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.06170)] 
+  [2024.08]
+    
+- **MedSAM:** Jun Ma, Sumin Kim, Feifei Li, Mohammed Baharoon, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
+  "Segment Anything in Medical Images and Videos: Benchmark and Deployment." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.03322)] 
+  [[code](https://github.com/bowang-lab/MedSAM)]
+  [2024.08]
+    
+- Andrew Seohwan Yu, Mohsen Hariri, Xuecen Zhang, Mingrui Yang, Vipin Chaudhary, Xiaojuan Li.<br />
+  "Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04762)] 
+  [2024.08]
+  
+- Jieming Yu, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren.<br />
+  "SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04593)] 
+  [2024.08]
+  
+- Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski.<br />
+  "Segment anything model 2: an application to 2D and 3D medical images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.00756)] 
+  [2024.08]
+      
+- Lin Zhao, Xiao Chen, Eric Z. Chen, Yikang Liu, Terrence Chen, Shanhui Sun.<br />
+  "Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.08813)] 
+  [2024.08]
+      
+- **BioSAM 2:** Zhiling Yan, Weixiang Sun, Rong Zhou, Zhengqing Yuan, Kai Zhang, Yiwei Li, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br />
+  "Biomedical SAM 2: Segment Anything in Biomedical Images and Videos." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.03286)] 
+  [2024.08]
 
+- **SAM_2_Medical_3D:** Chuyun Shen, Wenhao Li, Yuhang Shi, Xiangfeng Wang.<br />
+  "Interactive 3D Medical Image Segmentation with SAM 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.02635)] 
+  [[code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)]
+  [2024.08]
+  
+- Sourya Sengupta, Satrajit Chakrabarty, Ravi Soni.<br />
+  "Is SAM 2 Better than SAM in Medical Image Segmentation?." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04212)] 
+  [2024.08]
+  
+- **Surgical SAM 2:** Haofeng Liu, Erli Zhang, Junde Wu, Mingxuan Hong, Yueming Jin.<br />
+  "Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.07931)] 
+  [[code](https://github.com/jinlab-imvr/Surgical-SAM-2)]
+  [2024.08]
+    
+- Yiqing Shen, Hao Ding, Xinyuan Shao, Mathias Unberath.<br />
+  "Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04098)] 
+  [2024.08]
+    
+- **MedSAM-2:** Jiayuan Zhu, Yunli Qi, Junde Wu.<br />
+  "Medical SAM 2: Segment medical images as video via Segment Anything Model 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.00874)] 
+  [[code](https://github.com/MedicineToken/Medical-SAM2)]
+  [2024.08]
+  
+- **Polyp SAM 2:** Mobina Mansoori, Sajjad Shahabodini, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
+  "Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.05892)] 
+  [[code](https://github.com/sajjad-sh33/Polyp-SAM-2)]
+  [2024.08]
+          
+- **FS-MedSAM2:** Yunhao Bai, Qinji Yu, Boxiang Yun, Dakai Jin, Yingda Xia, Yan Wang.<br />
+  "FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.04298)] 
+  [[code](https://github.com/DeepMed-Lab-ECNU/FS_MedSAM2)]
+  [2024.09]
+  
+- **YOLO-SAM 2:** Mobina Mansoori, Sajjad Shahabodini, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
+  "Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.09484)] 
+  [[code](https://github.com/sajjad-sh33/YOLO_SAM2)]
+  [2024.09]
+  
+- **MediViSTA-SAM:** Sekeun Kim, Kyungsang Kim, Jiang Hu, Cheng Chen, Zhiliang Lyu, Ren Hui, Sunghwan Kim, Zhengliang Liu, Aoxiao Zhong, Xiang Li, Tianming Liu, Quanzheng Li.<br />
+  "MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.13539)] 
+  [[code](https://github.com/kimsekeun/MediViSTA-SAM)]
+  [2023.09]
+  
+- **SAM-OCTA2:** Xinrun Chen, Chengliang Wang, Haojian Ning, Mengzhan Zhang, Mei Shen, Shiying Li.<br />
+  "SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.09286)] 
+  [[code](https://github.com/ShellRedia/SAM-OCTA2)]
+  [2024.09]
+  
 ## Other Video Tasks
 ### Video Compression
 - **SA-ICM:** Takahiro Shindo, Kein Yamada, Taiju Watanabe, Hiroshi Watanabe.<br />
