@@ -207,6 +207,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.03358)] 
   [[code](https://github.com/tub-rip/MouseSIS)]
   [2024.09]
+
+- **S-AModal:** Jasmin Breitenstein, Franz Jünger, Andreas Bär, Tim Fingscheidt.<br />
+  "Foundation Models for Amodal Video Instance Segmentation in Automated Driving." ECCV VCAD Workshop (2024).
+  [[paper](https://arxiv.org/abs/2409.14095)] 
+  [[code](https://github.com/ifnspaml/S-AModal)]
+  [2024.09]
   
 ### Video Panoptic Segmentation
 - **DEVA:** Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee.<br />
@@ -590,7 +596,10 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2407.05518)] 
   [2024.07]
 
-
+- **UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.16902)] 
+  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
 ## Video Editing and Generation
 ### Video Editing
@@ -917,6 +926,14 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2405.02608)] 
   [[code](https://github.com/facebookresearch/UnSAMFlow)]
   [2024.05]  
+
+### Others
+- **VTA:** Yuchen Hu, Yu Gu, Chenxing Li, Rilin Chen, Dong Yu.<br />
+  "Video-to-Audio Generation with Fine-grained Temporal Semantics." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.14709)] 
+  [[code](https://sounddemos.github.io/vta-sam/)]
+  [2024.09]
+
   
 ## Video Understanding and Analysis
 ### Video Captioning
@@ -979,6 +996,12 @@ If you find our work useful in your research, please consider citing:
   "Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05433)] 
   [2024.03]
+
+### Others
+- **SAMEdge:** Rui Lu, Siping Shi, Yanting Liu, Dan Wang.<br />
+  "SAMEdge: An Edge-cloud Video Analytics Architecture for the Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.14784)] 
+  [2024.09]
   
 ## Medical Video Processing
 - **SurgicalSAM:** An Wang, Mobarakol Islam, Mengya Xu, Yang Zhang, Hongliang Ren.<br />
@@ -1250,6 +1273,12 @@ If you find our work useful in your research, please consider citing:
 - **RoVi-Aug:** Lawrence Yunliang Chen, Chenfeng Xu, Karthik Dharmarajan, Zubair Irshad, Richard Cheng, Kurt Keutzer, Masayoshi Tomizuka, Quan Vuong, Ken Goldberg.<br />
   "RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning." CoRL (2024).
   [[paper](https://arxiv.org/abs/2409.03403)] 
+  [2024.09]
+
+- Xi Wang, Tianxing Chen, Qiaojun Yu, Tianling Xu, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo.<br />
+  "Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.16287)] 
+  [[code](https://hytidel.github.io/video-tracking-for-axis-estimation/)]
   [2024.09]
     
 ### Video Game
