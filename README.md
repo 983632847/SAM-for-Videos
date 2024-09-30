@@ -652,10 +652,15 @@ If you find our work useful in your research, please consider citing:
   [2023.05]
   
 - **Gaussian Grouping:** Mingqiao Ye, Martin Danelljan, Fisher Yu, Lei Ke.<br />
-  "Gaussian Grouping: Segment and Edit Anything in 3D Scenes." ArXiv (2023).
+  "Gaussian Grouping: Segment and Edit Anything in 3D Scenes." ECCV (2024).
   [[paper](https://arxiv.org/abs/2312.00732)] 
   [[code](https://github.com/lkeab/gaussian-grouping)]
   [2023.12]
+  
+- **Gaussian Grouping:** Mingqiao Ye, Martin Danelljan, Fisher Yu, Lei Ke.<br />
+  "Gaussian Grouping: Segment and Edit Anything in 3D Scenes —– Supplementary Material —." ECCV (2024).
+  [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04195-supp.pdf)] 
+  [2024.09]
   
 - **Diffusion Handles:** Karran Pandey, Paul Guerrero, Matheus Gadelha, Yannick Hold-Geoffroy, Karan Singh, Niloy Mitra.<br />
   "Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D." ArXiv (2023).
@@ -1286,7 +1291,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.16287)] 
   [[code](https://hytidel.github.io/video-tracking-for-axis-estimation/)]
   [2024.09]
-    
+  
+- **Robotic-CLIP:** Nghia Nguyen, Minh Nhat Vu, Tung D. Ta, Baoru Huang, Thieu Vo, Ngan Le, Anh Nguyen.<br />
+  "Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.17727)] 
+  [2024.09]   
+  
 ### Video Game
 - Christian A. Schiller.<br />
   "Virtual Augmented Reality for Atari Reinforcement Learning." ArXiv (2023).
