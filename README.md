@@ -1209,6 +1209,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.09286)] 
   [[code](https://github.com/ShellRedia/SAM-OCTA2)]
   [2024.09]
+
+- **VP-SAM:** Zhixue Fang, Yuzhi Liu, Huisi Wu , and Jin Qin.<br />
+  "VP-SAM: Taming Segment Anything Model for Video Polyp Segmentation via Disentanglement and Spatio-temporal Side Network." ECCV (2024).
+  [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03403.pdf)] 
+  [[code](https://github.com/zhixue-fang/VPSAM)]
+  [2024.09]
   
 ## Other Video Tasks
 ### Video Compression
