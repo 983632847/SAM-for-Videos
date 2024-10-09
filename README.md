@@ -36,6 +36,7 @@ If you find our work useful in your research, please consider citing:
 
 ## Contents
 - [Video Segmentation](#video-segmentation)
+  - [Video Object Segmentation](#video-object-segmentation)
   - [Video Semantic Segmentation](#video-semantic-segmentation)
   - [Video Instance Segmentation](#video-instance-segmentation)
   - [Video Panoptic Segmentation](#video-panoptic-segmentation)
@@ -94,6 +95,13 @@ If you find our work useful in your research, please consider citing:
   - [Tool Software](#tool-software)
 
 ## Video Segmentation
+### Video Object Segmentation
+- **SAM2-VCOS:** Yuli Zhou, Guolei Sun, Yawei Li, Luca Benini, Ender Konukoglu.<br />
+  "When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.18653)] 
+  [[code](https://github.com/zhoustan/SAM2-VCOS)]
+  [2024.09]
+  
 ### Video Semantic Segmentation
 - **PerSAM:** Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.<br />
   "Personalize Segment Anything Model with One Shot." ArXiv (2023).
@@ -362,7 +370,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2408.15876)] 
   [[code](https://github.com/appletea233/AL-Ref-SAM2)]
   [2024.08]
-  
+
+- **SAM-SPB:** Zhao, Quan and Wu, Siying and Zhang, Yueyi and Sun, Xiaoyan.<br />
+"Semantic-Enhanced Point-Box Joint Prompting for Video Object Segmentation" ICIP (2024).
+[paper](https://ieeexplore.ieee.org/abstract/document/10648107?casa_token=CDER8G2ujekAAAAA:q3xlO94oqrLBoVsyHZeAd85YXtRtffZLpLoQiw8nHF8N4zif9UxGlNQEUnbiaZlhxS0kQ34eVa1b)] 
+  [2024.09]
+    
 ### Universal Segmentation
 - **UniLSeg:** Yong Liu, Cairong Zhang, Yitong Wang, Jiahao Wang, Yujiu Yang, Yansong Tang.<br />
   "Universal Segmentation at Arbitrary Granularity with Language Instruction." ArXiv (2023).
@@ -376,7 +389,11 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/lxtGH/OMG-Seg)]
   [2024.01]
 
-
+- **VideoLISA:** Zechen Bai, Tong He, Haiyang Mei, Pichao Wang, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou.<br />
+  "One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2409.19603)] 
+  [[code](https://github.com/showlab/VideoLISA)]
+  [2024.09]
   
 ## Video Detection and Recognition
 ### Video Object Detection
