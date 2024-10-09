@@ -56,7 +56,7 @@ If you find our work useful in your research, please consider citing:
   - [Action Recognition](#action-recognition)
   - [Video Activity and Scene Classification](#video-activity-and-scene-classification) 
 
-- [Video Tracking](#video-tracking)
+- [Video Object Tracking](#video-object-tracking)
   - [General Object Tracking](#general-object-tracking)
   - [Open-Vocabulary Tracking](#open-vocabulary-tracking)
   - [Point Tracking](#point-tracking)
@@ -480,7 +480,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2402.02352)] 
   [2024.02]
 
-## Video Tracking
+## Video Object Tracking
 ### General Object Tracking
 - **MSDeAOT:** Yuanyou Xu, Jiahao Li, Zongxin Yang, Yi Yang, Yueting Zhuang.<br />
   "ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking." ArXiv (2023).
