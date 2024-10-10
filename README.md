@@ -476,8 +476,10 @@ If you find our work useful in your research, please consider citing:
   [2024.01]
 
 - **SAM+SLIC:** Michal Shlapentokh-Rothman, Ansel Blume, Yao Xiao, Yuqun Wu, Sethuraman T V, Heyi Tao, Jae Yong Lee, Wilfredo Torres, Yu-Xiong Wang, Derek Hoiem.<br />
-  "Region-Based Representations Revisited." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2402.02352)] 
+  "Region-Based Representations Revisited." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2402.02352)]
+  [[website](https://regionreps.web.illinois.edu/)]
+  [[code](https://github.com/michalsr/regions)]
   [2024.02]
 
 ## Video Object Tracking
