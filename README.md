@@ -892,6 +892,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2403.06356)] 
   [2024.03]
 
+- **AvatarGO:** Yukang Cao, Liang Pan, Kai Han, Kwan-Yee K. Wong, Ziwei Liu.<br />
+  "AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.07164)] 
+  [[code](https://yukangcao.github.io/AvatarGO/)]
+  [2024.10]
+
 ### Video Generation with Other Modalities
 - **DisCo:** Tan Wang, Linjie Li, Kevin Lin, Yuanhao Zhai, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang.<br />
   "DisCo: Disentangled Control for Realistic Human Dance Generation." ArXiv (2023).
