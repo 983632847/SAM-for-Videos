@@ -101,6 +101,11 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.18653)] 
   [[code](https://github.com/zhoustan/SAM2-VCOS)]
   [2024.09]
+
+- **VideoSAM:** Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang.<br />
+  "VideoSAM: Open-World Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.08781)] 
+  [2024.10]
   
 ### Video Semantic Segmentation
 - **PerSAM:** Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.<br />
