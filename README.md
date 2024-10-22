@@ -17,7 +17,7 @@
 
 ## :fire: Highlights
 ```
-- 2024.10.14: The latest update of this project.
+- 2024.10.22: The latest update of this project.
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 ```
@@ -105,6 +105,12 @@ If you find our work useful in your research, please consider citing:
 - **VideoSAM:** Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang.<br />
   "VideoSAM: Open-World Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08781)] 
+  [2024.10]
+
+- **SAM2Long:** Shuangrui Ding, Rui Qian, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Yuwei Guo, Dahua Lin, Jiaqi Wang.<br />
+  "SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.16268)] 
+  [[code](https://github.com/Mark12Ding/SAM2Long)]
   [2024.10]
   
 ### Video Semantic Segmentation
