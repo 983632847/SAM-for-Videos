@@ -17,7 +17,7 @@
 
 ## :fire: Highlights
 ```
-- 2024.10.22: The latest update of this project.
+- 2024.11.03: The latest update of this project.
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 ```
@@ -112,6 +112,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2410.16268)] 
   [[code](https://github.com/Mark12Ding/SAM2Long)]
   [2024.10]
+
+- **VideoSAM:** Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci.<br />
+"VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2410.21304)]
+[[code](https://github.com/chikap421/videosam)]
+[2024.10]
   
 ### Video Semantic Segmentation
 - **PerSAM:** Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.<br />
