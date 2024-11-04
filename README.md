@@ -238,7 +238,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.14095)] 
   [[code](https://github.com/ifnspaml/S-AModal)]
   [2024.09]
-  
+
+- **MWVOS:** Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu.<br />
+"Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu." Pattern Recognition(2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0031320324008513)]
+[2024.10]
+
 ### Video Panoptic Segmentation
 - **DEVA:** Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee.<br />
   "Tracking Anything with Decoupled Video Segmentation." ICCV (2023).
