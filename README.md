@@ -1044,10 +1044,6 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2311.17074)] 
   [2023.11]
   
-- **P^2SAM:** Chenhui Zhao, Liyue Shen.<br />
-  "Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2403.05433)] 
-  [2024.03]
 
 ### Others
 - **SAMEdge:** Rui Lu, Siping Shi, Yanting Liu, Dan Wang.<br />
@@ -1098,7 +1094,12 @@ If you find our work useful in your research, please consider citing:
   "Video Polyp Segmentation using Implicit Networks." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=7gFODPjwOe)] 
   [2024.02]
-  
+
+- **P^2SAM:** Chenhui Zhao, Liyue Shen.<br />
+  "Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05433)] 
+  [2024.03]
+    
 - **WeakSurg:** Qiyuan Wang, Yanzhe Liu, Shang Zhao, Rong Liu, S. Kevin Zhou.<br />
   "WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.09551)] 
