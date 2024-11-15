@@ -642,6 +642,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.16902)] 
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
+- **TAP:** Jia Syuen Lim, Yadan Luo, Zhi Chen, Tianqi Wei, Scott Chapman, Zi Huang.<br />
+"Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.06702)]
+[2024.11]
+
+
 ## Video Editing and Generation
 ### Video Editing
 #### Text Guided Video Editing
