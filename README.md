@@ -17,7 +17,7 @@
 
 ## :fire: Highlights
 ```
-- 2024.11.15: The latest update of this project.
+- 2024.11.20: The latest update of this project.
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.29: The SAM 2 was released.
 ```
@@ -523,6 +523,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2307.13974)] 
   [[code](https://github.com/jiawen-zhu/HQTrack)]
   [2023.07]
+
+- **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
+"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.11922)]
+[[code](https://github.com/yangchris11/samurai)]
+[2024.11]
 
 ### Open-Vocabulary Tracking
 - **OVTracktor:** Wen-Hsuan Chu, Adam W. Harley, Pavel Tokmakov, Achal Dave, Leonidas Guibas, Katerina Fragkiadaki.<br />
