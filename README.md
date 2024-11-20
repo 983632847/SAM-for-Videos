@@ -240,7 +240,7 @@ If you find our work useful in your research, please consider citing:
   [2024.09]
 
 - **MWVOS:** Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu.<br />
-"Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu." Pattern Recognition(2024).
+"MWVOS: Mask-Free Weakly Supervised Video Object Segmentation via promptable foundation model." Pattern Recognition(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324008513)]
 [2024.10]
 
@@ -1062,6 +1062,12 @@ If you find our work useful in your research, please consider citing:
   "SAMEdge: An Edge-cloud Video Analytics Architecture for the Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.14784)] 
   [2024.09]
+
+- **MORA:** Andong Deng, Tongjia Chen, Shoubin Yu, Taojiannan Yang, Lincoln Spencer, Yapeng Tian, Ajmal Saeed Mian, Mohit Bansal, Chen Chen.<br />
+"Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.09921)]
+[[code](https://groundmore.github.io/)]
+[2024.11]
   
 ## Medical Video Processing
 - **SurgicalSAM:** An Wang, Mobarakol Islam, Mengya Xu, Yang Zhang, Hongliang Ren.<br />
