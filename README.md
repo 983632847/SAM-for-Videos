@@ -17,7 +17,7 @@
 
 ## :fire: Highlights
 ```
-- 2024.11.20: The latest update of this project.
+- 2024.11.22: The latest update of this project.
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.29: The SAM 2 was released.
 ```
@@ -298,6 +298,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2408.16768)] 
   [[code](https://github.com/ZiyuGuo99/SAM2Point)]
   [2024.08]
+
+- **Sim Anything:** Haoyu Zhao, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou.<br />
+"Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.12789)]
+[[code](https://sim-gs.github.io/)]
+[2024.11]
   
 ### Audio-Visual Segmentation
 - **AV-SAM:** Shentong Mo, Yapeng Tian.<br />
@@ -528,6 +534,11 @@ If you find our work useful in your research, please consider citing:
 "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.11922)]
 [[code](https://github.com/yangchris11/samurai)]
+[2024.11]
+
+- **GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
+"Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.13183)]
 [2024.11]
 
 ### Open-Vocabulary Tracking
