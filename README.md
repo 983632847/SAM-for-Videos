@@ -403,7 +403,14 @@ If you find our work useful in your research, please consider citing:
 "Semantic-Enhanced Point-Box Joint Prompting for Video Object Segmentation" ICIP (2024).
 [paper](https://ieeexplore.ieee.org/abstract/document/10648107?casa_token=CDER8G2ujekAAAAA:q3xlO94oqrLBoVsyHZeAd85YXtRtffZLpLoQiw8nHF8N4zif9UxGlNQEUnbiaZlhxS0kQ34eVa1b)] 
   [2024.09]
-    
+
+- **SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.<br />
+"SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.17646)]
+[[code](https://github.com/ClaudiaCuttano/SAMWISE)]
+[2024.11]
+
+
 ### Universal Segmentation
 - **UniLSeg:** Yong Liu, Cairong Zhang, Yitong Wang, Jiahao Wang, Yujiu Yang, Yansong Tang.<br />
   "Universal Segmentation at Arbitrary Granularity with Language Instruction." ArXiv (2023).
@@ -539,6 +546,12 @@ If you find our work useful in your research, please consider citing:
 - **GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
 "Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.13183)]
+[2024.11]
+
+- **DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
+"A Distractor-Aware Memory for Visual Object Tracking with SAM2." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.17576)]
+[[code](https://github.com/jovanavidenovic/DAM4SAM)]
 [2024.11]
 
 ### Open-Vocabulary Tracking
