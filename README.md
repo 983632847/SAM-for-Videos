@@ -118,6 +118,18 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2410.21304)]
 [[code](https://github.com/chikap421/videosam)]
 [2024.10]
+
+:boom:**MUG-VOS:** Sangbeom Lim, Seongchan Kim, Seungjun An, Seokju Cho, Paul Hongsuck Seo, Seungryong Kim.<br />
+"Multi-Granularity Video Object Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.01471)]
+[[code](https://cvlab-kaist.github.io/MUG-VOS)]
+[2024.12]
+
+:boom:**SAMs-CDConcepts-Eval:** Xiaoqi Zhao, Youwei Pang, Shijie Chang, Yuan Zhao, Lihe Zhang, Huchuan Lu, Jinsong Ouyang, Georges El Fakhri, Xiaofeng Liu.<br />
+"Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.01240)]
+[[code](https://github.com/lartpang/SAMs-CDConcepts-Eval)]
+[2024.12]
   
 ### Video Semantic Segmentation
 - **PerSAM:** Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.<br />
@@ -410,6 +422,11 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/ClaudiaCuttano/SAMWISE)]
 [2024.11]
 
+:boom:**SOLA:** Seongchan Kim, Woojeong Jin, Sangbeom Lim, Heeji Yoon, Hyunwook Choi, Seungryong Kim.<br />
+"Referring Video Object Segmentation via Language-aligned Track Selection." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.01136)]
+[[code](https://cvlab-kaist.github.io/SOLA)]
+[2024.12]
 
 ### Universal Segmentation
 - **UniLSeg:** Yong Liu, Cairong Zhang, Yitong Wang, Jiahao Wang, Yujiu Yang, Yansong Tang.<br />
