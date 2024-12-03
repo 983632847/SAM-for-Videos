@@ -17,7 +17,7 @@
 
 ## :fire: Highlights
 ```
-- 2024.11.27: The latest update of this project.
+- 2024.12.03: The latest update of this project.
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.29: The SAM 2 was released.
 ```
@@ -553,6 +553,29 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2411.17576)]
 [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 [2024.11]
+
+- Huanlong Zhang and Xiangbo Yang and Xin Wang and Weiqiang Fu and Bineng Zhong and Jianwei Zhang.<br />
+"SAM-Assisted Temporal-Location Enhanced Transformer Segmentation for Object Tracking with Online Motion Inference." Neurocomputing (2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0925231224016850)]
+[2024.11]
+
+- **TABE:** Finlay G. C. Hudson, William A. P. Smith.<br />
+"Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.19210)]
+[2024.11]
+
+- **Det-SAM2:** Zhiting Wang, Qiangong Zhou, Zongyang Liu.<br />
+"Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.18977)]
+[[code](https://github.com/motern88/Det-SAM2)]
+[2024.11]
+
+- **EfficientTAMs:** Yunyang Xiong, Chong Zhou, Xiaoyu Xiang, Lemeng Wu, Chenchen Zhu, Zechun Liu, Saksham Suri, Balakrishnan Varadarajan, Ramya Akula, Forrest Iandola, Raghuraman Krishnamoorthi, Bilge Soran, Vikas Chandra.<br />
+"Efficient Track Anything." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.18933)]
+[[code](https://yformer.github.io/efficient-track-anything/)]
+[2024.11]
+
 
 ### Open-Vocabulary Tracking
 - **OVTracktor:** Wen-Hsuan Chu, Adam W. Harley, Pavel Tokmakov, Achal Dave, Leonidas Guibas, Katerina Fragkiadaki.<br />
