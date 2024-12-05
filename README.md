@@ -102,18 +102,18 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/zhoustan/SAM2-VCOS)]
   [2024.09]
 
-- **VideoSAM:** Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang.<br />
+:boom:**VideoSAM:** Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang.<br />
   "VideoSAM: Open-World Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08781)] 
   [2024.10]
 
-- **SAM2Long:** Shuangrui Ding, Rui Qian, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Yuwei Guo, Dahua Lin, Jiaqi Wang.<br />
+:boom:**SAM2Long:** Shuangrui Ding, Rui Qian, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Yuwei Guo, Dahua Lin, Jiaqi Wang.<br />
   "SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.16268)] 
   [[code](https://github.com/Mark12Ding/SAM2Long)]
   [2024.10]
 
-- **VideoSAM:** Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci.<br />
+:boom:**VideoSAM:** Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci.<br />
 "VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2410.21304)]
 [[code](https://github.com/chikap421/videosam)]
