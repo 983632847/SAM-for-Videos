@@ -416,7 +416,7 @@ If you find our work useful in your research, please consider citing:
 [paper](https://ieeexplore.ieee.org/abstract/document/10648107?casa_token=CDER8G2ujekAAAAA:q3xlO94oqrLBoVsyHZeAd85YXtRtffZLpLoQiw8nHF8N4zif9UxGlNQEUnbiaZlhxS0kQ34eVa1b)] 
   [2024.09]
 
-- **SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.<br />
+:boom:**SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.<br />
 "SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.17646)]
 [[code](https://github.com/ClaudiaCuttano/SAMWISE)]
@@ -554,40 +554,40 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/jiawen-zhu/HQTrack)]
   [2023.07]
 
-- **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
+:boom:**SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
 "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.11922)]
 [[code](https://github.com/yangchris11/samurai)]
 [2024.11]
 
-- **GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
+:boom:**GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
 "Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.13183)]
 [2024.11]
 
-- **DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
+:boom:**DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
 "A Distractor-Aware Memory for Visual Object Tracking with SAM2." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.17576)]
 [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 [2024.11]
 
-- Huanlong Zhang and Xiangbo Yang and Xin Wang and Weiqiang Fu and Bineng Zhong and Jianwei Zhang.<br />
+:boom:Huanlong Zhang and Xiangbo Yang and Xin Wang and Weiqiang Fu and Bineng Zhong and Jianwei Zhang.<br />
 "SAM-Assisted Temporal-Location Enhanced Transformer Segmentation for Object Tracking with Online Motion Inference." Neurocomputing (2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224016850)]
 [2024.11]
 
-- **TABE:** Finlay G. C. Hudson, William A. P. Smith.<br />
+:boom:**TABE:** Finlay G. C. Hudson, William A. P. Smith.<br />
 "Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.19210)]
 [2024.11]
 
-- **Det-SAM2:** Zhiting Wang, Qiangong Zhou, Zongyang Liu.<br />
+:boom:**Det-SAM2:** Zhiting Wang, Qiangong Zhou, Zongyang Liu.<br />
 "Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.18977)]
 [[code](https://github.com/motern88/Det-SAM2)]
 [2024.11]
 
-- **EfficientTAMs:** Yunyang Xiong, Chong Zhou, Xiaoyu Xiang, Lemeng Wu, Chenchen Zhu, Zechun Liu, Saksham Suri, Balakrishnan Varadarajan, Ramya Akula, Forrest Iandola, Raghuraman Krishnamoorthi, Bilge Soran, Vikas Chandra.<br />
+:boom:**EfficientTAMs:** Yunyang Xiong, Chong Zhou, Xiaoyu Xiang, Lemeng Wu, Chenchen Zhu, Zechun Liu, Saksham Suri, Balakrishnan Varadarajan, Ramya Akula, Forrest Iandola, Raghuraman Krishnamoorthi, Bilge Soran, Vikas Chandra.<br />
 "Efficient Track Anything." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.18933)]
 [[code](https://yformer.github.io/efficient-track-anything/)]
@@ -712,7 +712,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.16902)] 
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
-- **TAP:** Jia Syuen Lim, Yadan Luo, Zhi Chen, Tianqi Wei, Scott Chapman, Zi Huang.<br />
+:boom:**TAP:** Jia Syuen Lim, Yadan Luo, Zhi Chen, Tianqi Wei, Scott Chapman, Zi Huang.<br />
 "Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.06702)]
 [2024.11]
@@ -1127,7 +1127,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.14784)] 
   [2024.09]
 
-- **MORA:** Andong Deng, Tongjia Chen, Shoubin Yu, Taojiannan Yang, Lincoln Spencer, Yapeng Tian, Ajmal Saeed Mian, Mohit Bansal, Chen Chen.<br />
+:boom:**MORA:** Andong Deng, Tongjia Chen, Shoubin Yu, Taojiannan Yang, Lincoln Spencer, Yapeng Tian, Ajmal Saeed Mian, Mohit Bansal, Chen Chen.<br />
 "Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.09921)]
 [[code](https://groundmore.github.io/)]
