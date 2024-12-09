@@ -17,7 +17,7 @@
 
 ## :fire: Highlights
 ```
-- 2024.12.03: The latest update of this project.
+- 2024.12.09: The latest update of this project.
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.29: The SAM 2 was released.
 ```
