@@ -102,6 +102,11 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/zhoustan/SAM2-VCOS)]
   [2024.09]
 
+:boom:Yue, Jiahe and Zhang, Runchu and Zhang, Zhe and Zhao, Ruixiang and Lv, Wu and Ma, Jie.<br />
+"How SAM helps Unsupervised Video Object Segmentation?." IJCNN (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10651290)]
+[2024.10]
+
 :boom:**VideoSAM:** Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang.<br />
   "VideoSAM: Open-World Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08781)] 
