@@ -722,6 +722,10 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2411.06702)]
 [2024.11]
 
+:boom:Vanhaeverbeke, J.; Decorte, R.; Slembrouck, M.; Hoecke, S.V.; Verstockt, S.<br />
+"Point of Interest Recognition and Tracking in Aerial Video during Live Cycling Broadcasts." Applied Sciences(2024).
+[[paper](https://www.mdpi.com/2076-3417/14/20/9246)]
+[2024.12]
 
 ## Video Editing and Generation
 ### Video Editing
