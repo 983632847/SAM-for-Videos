@@ -96,6 +96,16 @@ If you find our work useful in your research, please consider citing:
 
 ## Video Segmentation
 ### Video Object Segmentation
+- **SAM 2:** Nikhila Ravi∗,†, Valentin Gabeur∗, Yuan-Ting Hu∗, Ronghang Hu∗, Chaitanya Ryali∗, Tengyu Ma∗, Haitham Khedr∗, Roman Rädle∗  Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár†, Christoph Feichtenhofer∗,†.<br />
+  "SAM 2: Segment Anything in Images and Videos." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.00714)] 
+  [[demo]](https://sam2.metademolab.com/)] 
+  [[code](https://github.com/facebookresearch/segment-anything-2)]
+  [[project]](https://ai.meta.com/sam2)]
+  [[dataset](https://ai.meta.com/datasets/segment-anything-video)]
+  [[blog](https://ai.meta.com/blog/segment-anything-2)] 
+  [2024.07]
+  
 - **SAM2-VCOS:** Yuli Zhou, Guolei Sun, Yawei Li, Luca Benini, Ender Konukoglu.<br />
   "When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.18653)] 
