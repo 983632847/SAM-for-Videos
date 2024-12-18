@@ -338,6 +338,12 @@ If you find our work useful in your research, please consider citing:
   "AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2305.01836)]
   [2023.05]
+
+- **SAMA-AVS:** Jinxiang Liu, Yu Wang, Chen Ju, Chaofan Ma, Ya Zhang, Weidi Xie.<br />
+  "Annotation-free Audio-Visual Segmentation." WACV (2024).
+  [[paper]( https://arxiv.org/pdf/2305.11019v3.pdf)] 
+  [[code]( https://github.com/jinxiang-liu/anno-free-AVS)]
+  [2023.05]
   
 - **CMSF:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Xiatian Zhu.<br />
   "Leveraging Foundation models for Unsupervised Audio-Visual Segmentation." ArXiv (2023).
