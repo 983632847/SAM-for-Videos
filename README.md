@@ -16,8 +16,9 @@
 
 
 ## :fire: Highlights
+![Last Updated](https://badgen.net/github/last-commit/983632847/SAM-for-Videos?icon=github&label=last%20updated&color=blue)
+
 ```
-- 2024.12.09: The latest update of this project.
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.29: The SAM 2 was released.
 ```
