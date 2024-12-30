@@ -483,6 +483,12 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/harrytea/Detect-AnyShadow)]
   [2023.05]
 
+:boom:Leiping Jie.<br />
+"When SAM2 Meets Video Shadow and Mirror Detection." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.19293)]
+[[code](https://github.com/LeipingJie/SAM2Video)]
+[2024.12]
+
 ### Video Camouflaged Object Detection
   - **TSP-SAM:** Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao.<br />
   "Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection." CVPR (2024).
