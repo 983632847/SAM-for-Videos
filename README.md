@@ -1382,6 +1382,11 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03403.pdf)] 
   [[code](https://github.com/zhixue-fang/VPSAM)]
   [2024.09]
+
+:boom:Cheng Yuan, Jian Jiang, Kunyi Yang, Lv Wu, Rui Wang, Zi Meng, Haonan Ping, Ziyu Xu, Yifan Zhou, Wanli Song, Hesheng Wang, Qi Dou, Yutong Ban.<br />
+"Is Segment Anything Model 2 All You Need for Surgery Video Segmentation? A Systematic Evaluation" ArXiv (2024).
+[[paper](https://arxiv.org/abs/2501.00525)]
+[2024.12]
   
 ## Other Video Tasks
 ### Video Compression
