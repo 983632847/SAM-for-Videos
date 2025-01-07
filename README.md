@@ -447,7 +447,8 @@ If you find our work useful in your research, please consider citing:
 :boom:**SOLA:** Seongchan Kim, Woojeong Jin, Sangbeom Lim, Heeji Yoon, Hyunwook Choi, Seungryong Kim.<br />
 "Referring Video Object Segmentation via Language-aligned Track Selection." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.01136)]
-[[code](https://cvlab-kaist.github.io/SOLA)]
+[[code](https://github.com/cvlab-kaist/SOLA)]
+[[project](https://cvlab-kaist.github.io/SOLA)]
 [2024.12]
 
 ### Universal Segmentation
