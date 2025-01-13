@@ -759,6 +759,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.mdpi.com/2076-3417/14/20/9246)]
 [2024.12]
 
+:boom:**FLAIR:** Chinmay K Lalgudi, Mark E Leone, Jaden V Clark, Sergio Madrigal-Mora, Mario Espinoza.<br />
+"Zero-shot Shark Tracking and Biometrics from Aerial Imagery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.05717)]
+[2025.01]
+
 ## Video Editing and Generation
 ### Video Editing
 #### Text Guided Video Editing
