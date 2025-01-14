@@ -473,9 +473,10 @@ If you find our work useful in your research, please consider citing:
 :boom:**Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.<br />
 "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.04001)]
-[[code](https://lxtgh.github.io/project/sa2va)]
-[[project](https://huggingface.co/ByteDance/Sa2VA-4B)]
-[2025.01]  
+[[code](https://github.com/magic-research/Sa2VA)]
+[[project](https://lxtgh.github.io/project/sa2va)]
+[[hugging face](https://huggingface.co/ByteDance/Sa2VA-8B)]
+[2025.01]
 
 
 ## Video Detection and Recognition
