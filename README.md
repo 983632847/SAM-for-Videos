@@ -630,6 +630,11 @@ If you find our work useful in your research, please consider citing:
 [[code](https://yformer.github.io/efficient-track-anything/)]
 [2024.11]
 
+:boom:**EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
+"EdgeTAM: On-Device Track Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.07256)]
+[[code](https://github.com/facebookresearch/EdgeTAM)]
+[2025.01]
 
 ### Open-Vocabulary Tracking
 - **OVTracktor:** Wen-Hsuan Chu, Adam W. Harley, Pavel Tokmakov, Achal Dave, Leonidas Guibas, Katerina Fragkiadaki.<br />
