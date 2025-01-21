@@ -776,6 +776,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2501.05717)]
 [2025.01]
 
+:boom:**UW-COT220 & VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2409.16902)]
+  [[ResearchGate](https://www.researchgate.net/publication/388189638_Towards_Underwater_Camouflaged_Object_Tracking_Benchmark_and_Baselines)]
+  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
+
 ## Video Editing and Generation
 ### Video Editing
 #### Text Guided Video Editing
