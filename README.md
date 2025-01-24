@@ -457,6 +457,11 @@ If you find our work useful in your research, please consider citing:
 [[project](https://cvlab-kaist.github.io/SOLA)]
 [2024.12]
 
+:boom:**MPG-SAM 2:** Fu Rong, Meng Lan, Qian Zhang, Lefei Zhang.<br />
+"MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.13667)]
+[2025.01]
+
 ### Universal Segmentation
 - **UniLSeg:** Yong Liu, Cairong Zhang, Yitong Wang, Jiahao Wang, Yujiu Yang, Yansong Tang.<br />
   "Universal Segmentation at Arbitrary Granularity with Language Instruction." ArXiv (2023).
