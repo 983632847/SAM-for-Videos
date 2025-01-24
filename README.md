@@ -152,6 +152,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2501.08549)]
 [[code](https://github.com/SitongGong/VRS-HQ)]
 [2025.01]
+
+:boom:**MONA:** Boxun Hu, Mingze Xia, Ding Zhao, Guanlin Wu.<br />
+"MONA: Moving Object Detection from Videos Shot by Dynamic Camera." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.13183)]
+[2025.01]
   
 ### Video Semantic Segmentation
 - **PerSAM:** Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.<br />
