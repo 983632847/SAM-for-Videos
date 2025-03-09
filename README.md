@@ -619,8 +619,8 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2411.13183)]
 [2024.11]
 
-:boom:**DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
-"A Distractor-Aware Memory for Visual Object Tracking with SAM2." ArXiv (2024).
+:boom:**SAM2.1++:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
+"A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
 [[paper](https://arxiv.org/abs/2411.17576)]
 [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 [2024.11]
