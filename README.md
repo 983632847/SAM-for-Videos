@@ -1495,6 +1495,22 @@ If you find our work useful in your research, please consider citing:
 "Is Segment Anything Model 2 All You Need for Surgery Video Segmentation? A Systematic Evaluation" ArXiv (2024).
 [[paper](https://arxiv.org/abs/2501.00525)]
 [2024.12]
+
+:boom:**SASVi:** Ssharvien Kumar Sivakumar, Yannik Frisch, Amin Ranem, Anirban Mukhopadhyay.<br />
+"SASVi - Segment Any Surgical Video." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.09653)]
+[2025.02]
+
+:boom:**BlooDet:** Jialun Pei, Zhangjun Zhou, Diandian Guo, Zhixi Li, Jing Qin, Bo Du, Pheng-Ann Heng.<br />
+"Synergistic Bleeding Region and Point Detection in Surgical Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.22174)]
+[2025.03]
+
+:boom:**MedSAM2:** Jun Ma, Zongxin Yang, Sumin Kim, Bihui Chen, Mohammed Baharoon, Adibvafa Fallahpour, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
+"MedSAM2: Segment Anything in 3D Medical Images and Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.03600)]
+[[code](https://medsam2.github.io/)]
+[2025.04]
   
 ## Other Video Tasks
 ### Video Compression
