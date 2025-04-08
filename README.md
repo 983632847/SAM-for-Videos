@@ -8,7 +8,7 @@
 
 > **<p align="justify"> Abstract:** *The recent wave of foundation models has witnessed tremendous success in computer vision (CV) and beyond, with the segment anything model (SAM) having sparked a passion for exploring task-agnostic visual foundation models. Empowered by its remarkable zero-shot generalization, SAM is currently challenging numerous traditional paradigms in CV, delivering extraordinary performance not only in various image segmentation and multi-modal segmentation (e.g., text-to-mask) tasks, but also in the video domain. Additionally, the latest released SAM 2 is once again sparking research enthusiasm in the realm of promptable visual segmentation for both images and videos. However, existing surveys mainly focus on SAM in various image processing tasks, a comprehensive and in-depth review in the video domain is notably absent. To address this gap, this work conducts a systematic review on SAM for videos in the era of foundation models. As the first to review the progress of SAM for videos, this work focuses on its applications to various tasks by discussing its recent advances, and innovation opportunities of developing foundation models on broad applications. We begin with a brief introduction to the background of SAM and video-related research domains. Subsequently, we present a systematic taxonomy that categorizes existing methods into three key areas: video understanding, video generation, and video editing, analyzing and summarizing their advantages and limitations. Furthermore, comparative results of SAM-based and current state-of-the-art methods on representative benchmarks, as well as insightful analysis are offered. Finally, we discuss the challenges faced by current research and envision several future research directions in the field of SAM for video and beyond.* </p>
 
-> **This project will be continuously updated. We expect to include more state-of-the-arts on SAM for videos.**
+> **This project will be continuously updated. We expect to include more state-of-the-arts on SAM & SAM2 for Videos.**
 
 > **We welcome authors of related works to submit pull requests and become a contributor to this project.**
 
@@ -19,7 +19,7 @@
 ![Last Updated](https://badgen.net/github/last-commit/983632847/SAM-for-Videos?icon=github&label=last%20updated&color=blue)
 
 ```
-- 2024.07.31: The first survey on SAM for videos was online.
+- 2024.07.31: The first survey on SAM & SAM2 for videos was online.
 - 2024.07.29: The SAM 2 was released.
 ```
 
@@ -104,7 +104,7 @@ If you find our work useful in your research, please consider citing:
   - [Tool Software](#tool-software)
 
 ## Survey
-:boom:Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
+:boom:**The first survey on SAM & SAM2 for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
 "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2408.08315)]
 [[project](https://github.com/983632847/SAM-for-Videos)]
