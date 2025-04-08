@@ -387,6 +387,20 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2407.02004)] 
   [2024.07]
 
+:boom:**AV2T-SAM:** Kyungbok Lee, You Zhang, Zhiyao Duan.<br />
+"AUDIO VISUAL SEGMENTATION THROUGH TEXT EMBEDDINGS." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.16359)]
+[2025.02]
+
+:boom:**Save:** Park, Chae Jung and Nguyen, Khanh-Binh.<br />
+"Save: Segment Audio-Visual Easy Way Using The Segment Anything Model." SSRN (2025).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132584)]
+[2025.02]
+
+:boom:**AVSBench-Robust:** Jia Li, Wenjie Zhao, Ziru Huang, Yunhui Guo, Yapeng Tian.<br />
+"Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.00358)]
+[2025.02]
     
 ### Referring Video Object Segmentation
 - **RefSAM:** Yonglin Li, Jing Zhang, Xiao Teng, Long Lan, Xinwang Liu.<br />
@@ -467,6 +481,19 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2501.13667)]
 [2025.01]
 
+
+:boom:**ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
+"ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.23509)]
+[[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
+[2025.03]
+
+:boom:**Sa2VA:** Haobo Yuan, Tao Zhang, Xiangtai Li, Lu Qi, Zilong Huang, Shilin Xu, Jiashi Feng, Ming-Hsuan Yang.<br />
+"4th PVUW MeViS 3rd Place Report: Sa2VA." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.00476)]
+[[code](https://github.com/magic-research/Sa2VA)]
+[2025.04]
+
 ### Universal Segmentation
 - **UniLSeg:** Yong Liu, Cairong Zhang, Yitong Wang, Jiahao Wang, Yujiu Yang, Yansong Tang.<br />
   "Universal Segmentation at Arbitrary Granularity with Language Instruction." ArXiv (2023).
@@ -495,12 +522,21 @@ If you find our work useful in your research, please consider citing:
 [2025.01]
 
 
+
+
 ## Video Detection and Recognition
 ### Video Object Detection
 - Marian Longa, João F. Henriques.<br />
   "Unsupervised Object Detection with Theoretical Guarantees." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.07284)] 
   [2024.06]
+
+:boom:**DynamicEarth:** Kaiyu Li, Xiangyong Cao, Yupeng Deng, Chao Pang, Zepeng Xin, Deyu Meng, Zhi Wang.<br />
+"DynamicEarth: How Far are We from Open-Vocabulary Change Detection?." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.12931)]
+[[code](https://likyoo.github.io/DynamicEarth)]
+[2025.01]
+
 
 ### Video Shadow Detection
 - **ShadowSAM:** Yonghui Wang, Wengang Zhou, Yunyao Mao, Houqiang Li.<br />
@@ -526,6 +562,17 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2406.05802)] 
   [[code](https://github.com/SpiderNitt/SAM-PM)]
   [2024.06]
+
+:boom:**CamSAM2:** Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu.<br />
+"CamSAM2: Segment Anything Accurately in Camouflaged Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.19730)]
+[[code](https://github.com/zhoustan/CamSAM2)]
+[2025.03]
+
+:boom:**CamoSAM2:** Xin Zhang, Keren Fu, Qijun Zhao.<br />
+"CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.00375)]
+[2025.04]
 
 ### Deepfake Detection
 - **DADF:** Yingxin Lai, Zhiming Luo, Zitong Yu.<br />
@@ -781,6 +828,16 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.mdpi.com/2076-3417/14/20/9246)]
 [2024.12]
 
+:boom:**SST:** Zhenyang Feng, Zihe Wang, Saul Ibaven Bueno, Tomasz Frelek, Advikaa Ramesh, Jingyan Bai, Lemeng Wang, Zanming Huang, Jianyang Gu, Jinsu Yoo, Tai-Yu Pan, Arpita Chowdhury, Michelle Ramirez, Elizabeth G. Campolongo, Matthew J. Thompson, Christopher G. Lawrence, Sydne Record, Neil Rosser, Anuj Karpatne, Daniel Rubenstein, Hilmar Lapp, Charles V. Stewart, Tanya Berger-Wolf, Yu Su, Wei-Lun Chao.<br />
+"Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.06749)]
+[2025.01]
+
+:boom:Risha Goel, Zain Shabeeb, Isabel Panicker, Vida Jamali.<br />
+"Segment Anything Model for Zero-shot Single Particle Tracking in Liquid Phase Transmission Electron Microscopy." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.03153)]
+[2025.01]
+
 :boom:**FLAIR:** Chinmay K Lalgudi, Mark E Leone, Jaden V Clark, Sergio Madrigal-Mora, Mario Espinoza.<br />
 "Zero-shot Shark Tracking and Biometrics from Aerial Imagery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.05717)]
@@ -798,6 +855,8 @@ If you find our work useful in your research, please consider citing:
   [[知乎](https://zhuanlan.zhihu.com/p/19568835256)]
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
 [2025.04]
+
+
 
 ## Video Editing and Generation
 ### Video Editing
