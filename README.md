@@ -648,7 +648,7 @@ If you find our work useful in your research, please consider citing:
 [2024.11]
 
 :boom:**EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
-"EdgeTAM: On-Device Track Anything Model." ArXiv (2025).
+"EdgeTAM: On-Device Track Anything Model." CVPR (2025).
 [[paper](https://arxiv.org/abs/2501.07256)]
 [[code](https://github.com/facebookresearch/EdgeTAM)]
 [2025.01]
@@ -786,11 +786,18 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2501.05717)]
 [2025.01]
 
-:boom:**UW-COT220 & VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
-  "Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines." ArXiv (2025).
+:boom:**ReID-SAM:** Kunjun Li, Cheng-Yen Yang, Hsiang-Wei Huang, Jenq-Neng Hwang.<br />
+"Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.01907)]
+[2025.03]
+
+:boom:**VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Zhipeng Zhang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
+  "Underwater Camouflaged Object Tracking Meets Vision-Language SAM2." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2409.16902)]
-  [[ResearchGate](https://www.researchgate.net/publication/388189638_Towards_Underwater_Camouflaged_Object_Tracking_Benchmark_and_Baselines)]
+  [[ResearchGate](https://www.researchgate.net/publication/390421004_Underwater_Camouflaged_Object_Tracking_Meets_Vision-Language_SAM2)]
+  [[知乎](https://zhuanlan.zhihu.com/p/19568835256)]
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
+[2025.04]
 
 ## Video Editing and Generation
 ### Video Editing
