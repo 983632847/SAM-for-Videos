@@ -843,6 +843,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2501.05717)]
 [2025.01]
 
+:boom:**SAM-QA:** Emil Mededovic, Valdy Laurentius, Yuli Wu, Marcin Kopaczka, Zhu Chen, Mareike Schulz, René Tolba, Johannes Stegmaier.<br />
+"No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.03907)]
+[[code](https://github.com/medem23/SAM-QA)]
+[2025.02]
+
 :boom:**ReID-SAM:** Kunjun Li, Cheng-Yen Yang, Hsiang-Wei Huang, Jenq-Neng Hwang.<br />
 "Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.01907)]
@@ -1496,14 +1502,35 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2501.00525)]
 [2024.12]
 
+:boom:**Marker Track:** Aimee Guo, Weihua Mao.<br />
+"Marker Track: Accurate Fiducial Marker Tracking for Evaluation of Residual Motions During Breath-Hold Radiotherapy." Biomedical Physics & Engineering Express (2024).
+[[paper](https://arxiv.org/abs/2501.15660)]
+[[code](https://sites.google.com/view/markertrack?usp=sharing)]
+[2025.01]
+
 :boom:**SASVi:** Ssharvien Kumar Sivakumar, Yannik Frisch, Amin Ranem, Anirban Mukhopadhyay.<br />
 "SASVi - Segment Any Surgical Video." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.09653)]
 [2025.02]
 
+:boom:Utku Ozbulak, Seyed Amir Mousavi, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Wesley De Neve, Joris Vankerschaver.<br />
+"Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.20934)]
+[2025.02]
+
+:boom:**PP:** Wang Xinyi, Kang Hongyu, Wei Peishan, Shuai Li, Yu Sun, Sai Kit Lam, Yongping Zheng.<br />
+"Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.03501)]
+[2025.02]
+
 :boom:**BlooDet:** Jialun Pei, Zhangjun Zhou, Diandian Guo, Zhixi Li, Jing Qin, Bo Du, Pheng-Ann Heng.<br />
 "Synergistic Bleeding Region and Point Detection in Surgical Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.22174)]
+[2025.03]
+
+:boom:**SurgiSAM2:** Devanish N. Kamtam, Joseph B. Shrager, Satya Deepya Malla, Xiaohan Wang, Nicole Lin, Juan J. Cardona, Serena Yeung-Levy, Clarence Hu.<br />
+"SurgiSAM2: Fine-tuning a foundational model for surgical video anatomy segmentation and detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.03942)]
 [2025.03]
 
 :boom:**MedSAM2:** Jun Ma, Zongxin Yang, Sumin Kim, Bihui Chen, Mohammed Baharoon, Adibvafa Fallahpour, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
