@@ -36,6 +36,7 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ## Contents
+- [Survey](#survey)
 - [Video Segmentation](#video-segmentation)
   - [Video Object Segmentation](#video-object-segmentation)
   - [Video Semantic Segmentation](#video-semantic-segmentation)
@@ -94,6 +95,18 @@ If you find our work useful in your research, please consider citing:
   - [Video Style Transfer Attack](#video-style-transfer-attack)
   - [Semantic Communication](#semantic-communication)
   - [Tool Software](#tool-software)
+
+## Survey
+:boom:Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
+"Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2408.08315)]
+[[project](https://github.com/983632847/SAM-for-Videos)]
+[2024.07]
+
+:boom:Zhang Jiaxing, Tang Hao.<br />
+"SAM2 for Image and Video Segmentation: A Comprehensive Survey." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.12781)]
+[2025.03]
 
 ## Video Segmentation
 ### Video Object Segmentation
