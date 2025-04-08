@@ -21,6 +21,8 @@
 ```
 - 2024.07.31: The first survey on SAM & SAM2 for videos was online.
 - 2024.07.29: The SAM 2 was released.
+- 2023.05.14: The first comprehensive SAM survey was online.
+- 2023.04.05: The paper of "Segment Anything" was online.
 ```
 
 ## Citation
