@@ -106,7 +106,7 @@ If you find our work useful in your research, please consider citing:
   - [Tool Software](#tool-software)
 
 
-### Papers not included in our current survey are marked with a :boom: and will be discussed in the revised version.
+### Papers not included in this [survey](https://arxiv.org/abs/2408.08315) are marked with a :boom: and will be discussed in the revised version.
 ## Survey
 :fire:**The first survey on SAM & SAM2 for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
 "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
