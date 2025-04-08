@@ -115,6 +115,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2503.12781)]
 [2025.03]
 
+:boom:Clayton Bromley, Alexander Moore, Amar Saini, Doug Poland, Carmen Carrano.<br />
+"An Analysis of Segment Anything 2." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.00042)]
+[2025.03]
+
 ## Video Segmentation
 ### Video Object Segmentation
 - **SAM 2:** Nikhila Ravi∗,†, Valentin Gabeur∗, Yuan-Ting Hu∗, Ronghang Hu∗, Chaitanya Ryali∗, Tengyu Ma∗, Haitham Khedr∗, Roman Rädle∗  Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár†, Christoph Feichtenhofer∗,†.<br />
@@ -177,7 +182,12 @@ If you find our work useful in your research, please consider citing:
 "MONA: Moving Object Detection from Videos Shot by Dynamic Camera." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.13183)]
 [2025.01]
-  
+
+:boom:**SAM2Refiner:** Yuan Yao, Qiushi Yang, Miaomiao Cui, Liefeng Bo.<br />
+"Towards Fine-grained Interactive Segmentation in Images and Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.09660)]
+[2025.02]
+
 ### Video Semantic Segmentation
 - **PerSAM:** Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.<br />
   "Personalize Segment Anything Model with One Shot." ArXiv (2023).
@@ -237,6 +247,11 @@ If you find our work useful in your research, please consider citing:
   "LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.10469)] 
   [2024.08]
+
+:boom:**SAM-Upflow Splitter:** Wenhui Liu, Yulong Qiao, Zhengyi Xing, Yue Zhao.<br />
+"Zero-shot moving ship segmentation based on segment anything network and optical flow network." ELECTRONICS LETTERS (2025).
+[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70136)]
+[2025.01]
   
   
 ### Video Instance Segmentation
@@ -557,6 +572,17 @@ If you find our work useful in your research, please consider citing:
 [[code](https://likyoo.github.io/DynamicEarth)]
 [2025.01]
 
+:boom:**EP-SAM:** Wang, Zhitao and Wen, Jiangtao and Han, Yuxing.<br />
+"EP-SAM: An Edge-Detection Prompt SAM Based Efficient Framework for Ultra-Low Light Video Segmentation." ICASSP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10889601)]
+[[code](https://github.com/wzt22thu/EP-SAM/releases/tag/DEMO)]
+[2025.03]
+
+:boom:**ROS-SAM:** Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, Heng Wang, Xia Xie.<br />
+"ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.12006)]
+[[code](https://github.com/ShanZard/ROS-SAM)]
+[2025.03]
 
 ### Video Shadow Detection
 - **ShadowSAM:** Yonghui Wang, Wengang Zhou, Yunyao Mao, Houqiang Li.<br />
@@ -1018,7 +1044,13 @@ If you find our work useful in your research, please consider citing:
   "X-Ray: A Sequential 3D Representation for Generation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.14329)] 
   [2024.04]
-    
+
+:boom:**Feature4X:** Shijie Zhou, Hui Ren, Yijia Weng, Shuwang Zhang, Zhen Wang, Dejia Xu, Zhiwen Fan, Suya You, Zhangyang Wang, Leonidas Guibas, Achuta Kadambi.<br />
+"Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.20776)]
+[[code](https://feature4x.github.io/)]
+[2025.03]
+
 ### Video Dataset Annotation Generation
 - **SLP:** David Balaban, Justin Medich, Pranay Gosar, Justin Hart.<br />
   "Propagating Semantic Labels in Video Data." ArXiv (2023).
@@ -1219,7 +1251,13 @@ If you find our work useful in your research, please consider citing:
   "UnSAMFlow: Unsupervised Optical Flow Guided by Segment Anything Model." CVPR (2024).
   [[paper](https://arxiv.org/abs/2405.02608)] 
   [[code](https://github.com/facebookresearch/UnSAMFlow)]
-  [2024.05]  
+  [2024.05]
+
+:boom:**MVideo:** Qiang Zhou, Shaofeng Zhang, Nianzu Yang, Ye Qian, Hao Li.<br />
+"MVideo: Motion Control for Enhanced Complex Action Video Generation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.08328)]
+[[code](https://mvideo-v1.github.io/)]
+[2024.11]
 
 ### Others
 - **VTA:** Yuchen Hu, Yu Gu, Chenxing Li, Rilin Chen, Dong Yu.<br />
@@ -1298,6 +1336,19 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2411.09921)]
 [[code](https://groundmore.github.io/)]
 [2024.11]
+
+:boom:**VRS-HQ:** Sitong Gong, Yunzhi Zhuge, Lu Zhang, Zongxin Yang, Pingping Zhang, Huchuan Lu.<br />
+"The Devil is in Temporal Token: High Quality Video Reasoning Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.08549)]
+[[code](https://github.com/SitongGong/VRS-HQ)]
+[2025.01]
+
+:boom:**Motion-Seg:** Nan Huang, Wenzhao Zheng, Chenfeng Xu, Kurt Keutzer, Shanghang Zhang, Angjoo Kanazawa, Qianqian Wang.<br />
+"Segment Any Motion in Videos." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.22268)]
+[[code](https://motion-seg.github.io/)]
+[2025.03]
+
   
 ## Medical Video Processing
 - **SurgicalSAM:** An Wang, Mobarakol Islam, Mengya Xu, Yang Zhang, Hongliang Ren.<br />
