@@ -33,6 +33,13 @@ If you find our work useful in your research, please consider citing:
   journal={arXiv},
   year={2024}
 }
+
+@article{zhang2023comprehensive,
+  title={A Comprehensive Survey on Segment Anything Model for Vision and Beyond},
+  author={Zhang, Chunhui and Liu, Li and Cui, Yawen and Huang, Guanjie and Lin, Weilin and Yang, Yiqian and Hu, Yuehong},
+  journal={arXiv preprint arXiv:2305.08196},
+  year={2023}
+}
 ```
 
 ## Contents
