@@ -19,7 +19,7 @@
 ![Last Updated](https://badgen.net/github/last-commit/983632847/SAM-for-Videos?icon=github&label=last%20updated&color=blue)
 
 ```
-- 2025.04.23: SAM2 won the ICLR 2025 Best Paper Honorable Mention.
+- 2025.04.22: SAM2 won the ICLR 2025 Best Paper Honorable Mention.
 - 2024.07.31: The first survey on SAM & SAM2 for videos was online.
 - 2024.07.29: The SAM 2 was released.
 - 2023.05.14: The first comprehensive SAM survey was online.
